@@ -1,0 +1,1384 @@
+Question 2:
+
+-1siJSW7P3IFqpwv3PU53w	407 River StreetTroy, NY 12180
+-4ArSF1om4JXNBA8wAnQyA	571 Watervliet Shaker RdLatham, NY 12110
+-4IoLSPumLbEX_2VKbT81g	2094 Frederick Douglass BlvdHarlemNew York, NY 10026
+-4dfm4rBG5xv8sPSSmE5qA	Kennedy HallCornell UniversityIthaca, NY 14853
+-4wyQhCgMdR4LE-Dd1YH_g	200 BroadwayTroy, NY 12180
+-6ncX3fnQ9OLCjfiUe-kFg	2957 BroadwayMorningside HeightsNew York, NY 10025
+-7HhGiTMjIuosPRNSoyTOA	2845 BroadwayMorningside HeightsNew York, NY 10025
+-7cDP00Kwa7zOtP6-B3s0Q	880 New Loudon RdLatham, NY 12110
+-8H1cK_UrrwnL2oh_ts2Vw	2841 BroadwayMorningside HeightsNew York, NY 10025
+-9Av_wLuyB6sv7DQeOocgA	375 W 125th St FrntHarlemNew York, NY 10027
+-AMh6SAfLWB06B0_CNRPHA	2212 Frederick Douglass BlvdHarlemNew York, NY 10026
+-AQJhfna4qcxfDnCGx_yLA	2911 BroadwayMorningside HeightsNew York, NY 10025
+-E0x6y-6vnmxqrLB_swkaA	2300 N Triphammer RdIthaca, NY 14850
+-EpZHQYC1QdqgQf3JfkfLw	519 W 114th StMorningside HeightsNew York, NY 10025
+-HiJVN0WkFQ_PsdxMJOngA	301 W 113th  StHarlemNew York, NY 10026
+-JuT_VuVL0OfoY3ccYGy4w	2809 BroadwayManhattan ValleyNew York, NY 10025
+-Koz03whrmraP_RJ4FSiTQ	128 E State StIthaca, NY 14850
+-Y3Q670i-Xw0rSzGwirVFw	827 River StTroy, NY 12180
+-bp_6fQ4BerGGSDOwz0b1A	3147 Broadway BsmtHarlemNew York, NY 10027
+-fRiK_B2xIE6a-scEDU_SA	579 Troy Schenectady Rd#1259Latham, NY 12110
+-flMQvBVJLujcE7Q5bGAbw	215 N. Cayuga StreetIthaca, NY 14850
+-m26JWL6XkeX0g74f_37MA	410 Eddy StIthaca, NY 14850
+-pSooH1maXBB3KYB1aJUZA	2760-62 BroadwayManhattan ValleyNew York, NY 10025
+-totnE2bmDrWbNhyrz_NvA	270 St. Nicholas AveHarlemManhattan, NY 10027
+-vi_QVn-2NmA8IcaR6xyGw	946 Amsterdam AveManhattan ValleyNew York, NY 10025
+00rrqw4O0Flfatd0VV6QAg	301 Cathedral PkwyManhattan ValleyNew York, NY 10026
+02AT15PDQTbiSoiXtNgMDg	2200 19th StTroy, NY 12180
+02goPV7NW1StFyas5PVSeg	975 Amsterdam AveManhattan ValleyNew York, NY 10027
+04THECdIAZ877hAiG3bfYA	116 BroadwayAlbany, NY 12204
+0ATNn2vTik9sHEdzCs-mpQ	1809 5th AveTroy, NY 12180
+0B28Fy2vkAF5sLnUyaAqaA	387 3rd StTroy, NY 12180
+0F5Ee5Omg-gyMy-FJcy6NA	335 Elmira RdIthaca, NY 14850
+0Gea6WRvgkfPAAdAeEyz1A	130 E Seneca StIthaca, NY 14850
+0Kcuy_vyfWlAetDgdmIy3g	Columbia University515 W 114th StMorningside HeightsNew York, NY 10027
+0QK8ngsI3OA-X5z7Wuqx9w	3300 6th AveTroy, NY 12180
+0RB6mv9xdTMZNt3vFR2gWQ	2389 N Triphammer RdIthaca, NY 14850
+0ULhlG3LL6BbDEPMI6HFVA	975 Hoosick RdTroy, NY 12180
+0VIi1-Sn81b0VMsAr6HFwg	847 New Loudon RdLatham, NY 12110
+0YmQouReIQJFp3RafSYBXQ	1090 Amsterdam AveMorningside HeightsNew York, NY 10025
+0ZIaDoyJNEMQHyjOoI1OYQ	424 Eddy StIthaca, NY 14850
+0cALZVqrn6irOcouUgpDNg	290 River StTroy, NY 12181
+0cFEMzHis-XUgjYXIio9Rg	753 New Loudon RdLatham, NY 12110
+0c_Qj-WdlvMS5OjeitYiPA	278 River StTroy, NY 12180
+0gR9Q8ryRo4JovNgtc_M1g	369 3rd AveWatervliet, NY 12189
+0gmCzmFz99KDIedYc3eAvw	407 College AveIthaca, NY 14850
+0i2wGD6sVeQ3NtDKet2ETw	381 Pine Tree RdIthaca, NY 14850
+0mix2993jHmq61moejcKsw	2753 Broadway#137Manhattan ValleyNew York, NY 10025
+0msu7esqmZC3TB-i7QijAg	2875 BroadwayMorningside HeightsNew York, NY 10025
+0myzfKLg9mjBHev9F0s09w	300 Ontario StCohoes, NY 12047
+0ouRW6X9JIzOdE-c5NEpsg	381 Pine Tree RdIthaca, NY 14850
+0pPsnqxBAj7UGjGRL-QJ1A	893 New Loudon RdSte 3Latham, NY 12110
+0vG-9vALQvqRCSDym6tIjg	274 River StTroy, NY 12180
+0yV4mwb6IKV-EG9p2WbWYw	125 N. Fulton StIthaca, NY 14850
+15vp-uhiGbFAqTRKHk27PQ	118 W State StIthaca, NY 14850
+18PtRv3gFL4fCZ1Xm9P03Q	Hudson Valley PlzTroy, NY 12180
+190xQH8mcZugoxNM_0OAvA	27 3rd StTroy, NY 12180
+1I4MauZIdrJFYoW--MFqRw	1090 Amsterdam Ave.St. Luke's HospitalMorningside HeightsNew York, NY 10025
+1Ip9LD92OaNFbzbyTj22Ow	171 Remsen StCohoes, NY 12047
+1JWupuK4lbVKkCAY-utvew	410 W 110th StreetManhattan ValleyNew York, NY 10025
+1KWaczlXfDi9Z3urqlh_Yw	1080 Danby RdIthaca, NY 14850
+1NyqsVWCbPgvmQHPlJAWUA	401 W 118th StMorningside HeightsNew York, NY 10027
+1ObvhxqAftzKPdDOkpw31Q	79 Vandenburgh AveTroy, NY 12180
+1Ps3-IJycqFpR0uyii2HRQ	254 W 108th StManhattan ValleyManhattan, NY 10025
+1QbfwtfxTpLRWXi_89aCRA	106 N Aurora StIthaca, NY 14850
+1Rxz-NEYG17ljdXFdgIF-A	40 Catherwood RdSte 84Ithaca, NY 14850
+1WRGXvvyxRT2x5PDOBiLBA	145 16th StWatervliet, NY 12189
+1beYso295toaCxXt2ecdig	228 Columbia StIthaca, NY 14850
+1fRrL8uOb5jY09BKlc1hjg	295 W 112th StHarlemNew York, NY 10026
+1jDA-fkHPRVskI67r0A3CQ	240 Linden AveIthaca, NY 14850
+1mOcldfqbByxAaB0steLdg	2897 BroadwayMorningside HeightsNew York, NY 10025
+1utXwCsWjsULq3Trj3XfeA	601 W 114 StMorningside HeightsNew York, NY 10025
+1wo-E_JoKPs98OhE_jWLcw	251 W 116th StreetHarlemNew York, NY 10026
+1zLK3yDO9Qfkr-CsjF5aRg	963 Columbus AveManhattan ValleyNew York, NY 10025
+2HO3ekFrPxj16UtWgVbLgA	578 New Loudon RdLatham, NY 12110
+2JdCSsfcRQt0L_8DN3ttKA	3139 BroadwayHarlemNew York, NY 10027
+2S6FC3uNqcNk02U81cJWzA	1036 Amsterdam AveMorningside HeightsNew York, NY 10025
+2VQDEQuK3xLFNktPBIpmuQ	465 W 125th StHarlemNew York, NY 10027
+2Z-St3VTm6vdYCJxE3Q9HA	3080 BroadwayMorningside HeightsNew York, NY 10027
+2a7SDTvavCPJae6jkwq0oQ	25 White StCohoes, NY 12047
+2aHex8auBqSRyqqg7yyq6Q	971 Columbus AveManhattan ValleyNew York, NY 10025
+2d50xonA5EbIYeKCT2bWlw	664 New Loudon RdLatham, NY 12110
+2lJhvC4NzRXAUJd-Z61c9w	410 Elmira RdSuite 200Ithaca, NY 14850
+2m5gtNQnTgKchpFK6ZiOOg	1172 Amsterdam Ave300 Avery HallMorningside HeightsNew York, NY 10027
+2oMVapLIZYtBUeZ2gqdT7Q	579 Troy Schenectady RdLatham, NY 12110
+2rGqJu82fKvS7hrxegRq9A	757 Burden AveTroy, NY 12180
+2rz3Yjnx5tWy8rg0za-1Nw	2801 BroadwayManhattan ValleyNew York, NY 10025
+2ubKfUIPF_mWcF5k8KLs-Q	143 Troy Schenectady RdWatervliet, NY 12189
+2ud6V3PWpluOMMlbw4BTDA	779 Hoosick RdTroy, NY 12180
+2xOXboOQJfxoagBqrLXO_g	303 N Aurora StIthaca, NY 14850
+2yB1wx6AHtTyOcR-J4rTyw	1103 Danby RdIthaca, NY 14850
+3-AcFdxdvov9tL1C_3eT0g	104 Dryden RdIthaca, NY 14850
+33nfauIJqAZb-Cy01BWwrw	215 N Cayuga StIthaca, NY 14850
+38GVFKqsaX1RjJGWpjVpqQ	120 Defreest DrTroy, NY 12180
+39upAlhX03gi1bbYBfZS3g	Latham Farms579 Troy-Schenectady Rd.Latham, NY 12110
+3BT-TXQSa_Sc_BZ7fp4EMw	2901 BroadwayMorningside HeightsNew York, NY 10025
+3Ep-cHtiVbE6KpN6-mmMKA	118 W State StIthaca, NY 14850
+3J-0hCC4R822-SIgriV2Sg	103 8th AveTroy, NY 12180
+3OrUW0S1x8gtn63a4ryvpw	579 Troy Schenectady RdLatham, NY 12110
+3QCY93kLbH29Cctus8IyKQ	825 Danby RdIthaca, NY 14850
+3S0GwmgIGOFLZE1k_ZWegQ	622 Watervliet Shaker RdLatham, NY 12110
+3Tbq48YijgkrZfxnfHA94Q	126 E State StIthaca, NY 14850
+3U8qV1diOncXGqwSiTCNrg	279 Troy Schenectady RdLatham, NY 12110
+3ZuKbcnze3lPMZtolpakHw	121 4th StTroy, NY 12180
+3ayb8-X8BvPyFh_E6FLyyw	2756 BroadwayManhattan ValleyNew York, NY 10025
+3dyxUo0nT31VTwEaOp2CYA	2187 Frederick Douglass BlvdHarlemNew York, NY 10026
+3j8fKvgZGyd5A5mszRm9ow	2770 BroadwayManhattan ValleyNew York, NY 10025
+3m3CtZ5xtthNFq23BLYR7w	2915 BroadwayMorningside HeightsNew York, NY 10025
+3nJznAjsHf5Z5rlGAeNxaw	71 4th StTroy, NY 12181
+3uJAt1EHG0x9pz_c91AHuQ	3163 BroadwayHarlemNew York, NY 10027
+3uUfb4kLIGC4Vn2ztUxrJw	710 New Loudon RdLatham, NY 12110
+3vTFn7A5DsnwGzYlrnN-sw	357 Elmira RdIthaca, NY 14850
+3z111M1LvR8jU16ZprWlrQ	1233 Amsterdam AveMorningside HeightsNew York, NY 10027
+45iw_QhKunotF2o6RTBEqg	648 Third AveWatervliet, NY 12189
+47GachdlegITs2hvEzssGQ	363 BroadwayTroy, NY 12180
+4Asa_ZggWWgr5EAuTUY2cQ	636 New Loudon RdSte 2Latham, NY 12110
+4Ep1aEi5o9wDThzL4dbWuw	660 New Loudon RdLatham, NY 12110
+4GEgSSZlQIvJO6lTPk8yHA	221 Wade Road ExtLatham, NY 12110
+4GYc1Ld8r4rGQJKz_Qp07A	366 W 110th StManhattan ValleyNew York, NY 10025
+4Gzv_B96ssWG6OO5V5Bwtg	2255 N Triphammer RdIthaca, NY 14850
+4Lcrd7xr5aLBetLmi-INeA	1 Culligan DrIthaca, NY 14850
+4P8oRgBE60D2aWOXMHrzcg	104 3rd StTroy, NY 12180
+4QSkg3pl9J7WRNhQZbHcfw	75 Ferry StTroy, NY 12180
+4VdGntX6dKc-xQ_nFlpdVQ	853 4th AveTroy, NY 12182
+4dyulLTGILN4wsfZ6KBmig	115 N Aurora StIthaca, NY 14850
+4fN2HAvedfwzUcYebYIWlQ	RR 13Ithaca, NY 14850
+4n4wMkDnDY7cuWOya8UumA	409 W 125th StreetHarlemNew York, NY 10027
+4o6C5dFjyjBvF1g9st78NA	111 N Aurora StIthaca, NY 14850
+4rVOnFVcIlqBvkmBZAhijw	601 W 112th StMorningside HeightsManhattan, NY 10025
+4rWJGwb3rjDoZHA0AECa5A	300 W 114th StHarlemNew York, NY 10026
+4sCVUl0HBwgBszn4vtCoeg	381 BroadwayMenands, NY 12204
+4tAj-C-8PAtfOfPHCHwa6g	9 Cobbee RdLatham, NY 12110
+4v-NLGt3WuKl3IyOhkHv-Q	Ithaca CommonsIthaca, NY 14850
+4zbi6yjv64spii1OlfzF7g	40 Catherwood RdIthaca, NY 14850
+51DwJDP5TOlsCQYc0GQdVQ	1288 Amsterdam AveHarlemNew York, NY 10027
+538mXHozPzaS-ikimLC8rQ	143 Troy Schenectady RdWatervliet, NY 12189
+55rcaEF3hnXfw5Tu4KrpFw	689 Hoosick RdTroy, NY 12180
+5BAeOZKdi9ZG49UXdYxxzA	Lynah RinkCampus RoadIthaca, NY 14853
+5BM0cmJvxaFlFuh0L-b4Ow	217 N Greenbush RdTroy, NY 12180
+5D-DaPj4vmksb-Li2RCU0w	2053 8th AveHarlemNew York, NY 10026
+5E40E-GClzADGx_QaThV2w	111a Dryden RdIthaca, NY 14850
+5F5sbxR4cNQxjZ5QqKOycg	943 Amsterdam AveManhattan ValleyNew York, NY 10025
+5QlFPLuuKfVC0wpDofVdyw	949 Amsterdam Ave OfcManhattan ValleyNew York, NY 10025
+5Vn6sxKkzvZLcEM2yZcjfQ	935 Amsterdam AveManhattan ValleyNew York, NY 10025
+5_HDb91B-4b-bA_5U066vQ	Delaware AveWaterford, NY 12188
+5dzFMuClH9CDvfaUuIKWeg	1003 Columbus AveSte AManhattan ValleyNew York, NY 10025
+5fXFbJ4crFN2l0GlMhWWUQ	36 Cinema DrIthaca, NY 14850
+5jfJyABI5zAUk79IZXHtrw	511 W 125th StHarlemNew York, NY 10027
+5n-3uc-Nn21U-MFmVqZ33g	Buttermilk Falls Rd EIthaca, NY 14850
+5o_VBYSmwVUTydZF46rMjw	205 Elmira RdIthaca, NY 14850
+5vaT_RvkZIxD0NW_Q9yG3g	986 Columbus AveManhattan ValleyManhattan, NY 10025
+5x9PdVV5_TZvDtFKk5HZkg	6 Morningside AveMorningside HeightsManhattan, NY 10026
+60f6JzTRhOyOggsjCfvh5Q	3141 BroadwayHarlemManhattan, NY 10027
+652vE0OMz01U5E742D3hRQ	601 W 112th StMorningside HeightsNew York, NY 10025
+692rpGfGf2YpfPf9V1_sag	206 Taughannock BlvdIthaca, NY 14850
+6AeFK6YW1Dd1KW56SmHn7Q	413 Taughannock BlvdIthaca, NY 14850
+6CNJqhDGI59hRRbVDkzGuw	209 River StTroy, NY 12180
+6EBepymYHjT7bvZ1ROgvPg	2903 BroadwayMorningside HeightsNew York, NY 10025
+6ITZ5Gwyt8FktCwmf-PHAQ	114 E State StIthaca, NY 14850
+6Ld6AS4Qa_kVessELWw_tw	377 River StTroy, NY 12180
+6PdMtDkLAg_kDYCEi6VBwA	266 4th StTroy, NY 12180
+6RLUQ9SwIFJN8hVWrrnmJQ	2101 Frederick Douglass BlvdHarlemNew York, NY 10026
+6S_hNYN9n_2Z9HYh_QRmRA	116th St & BroadwayMorningside HeightsManhattan, NY 10027
+6Ug_QIOr-WHc1JzsbQ_H-A	2818 BroadwayManhattan ValleyNew York, NY 10025
+6bhanfNsWIbuhm6Y8YfxIA	3137 BroadwayHarlemNew York, NY 10027
+6fH20sLUGIYcaBAN-ZSieA	3155 BroadwayHarlemNew York, NY 10027
+6ivIw93SATyp6Syc-_k5Eg	2090 Frederick Douglass BlvdHarlemNew York, NY 10026
+6nOxwnuN0ZwLX3h3JYSJnA	2880 BroadwayMorningside HeightsNew York, NY 10025
+6otX06BtZ5uOvTM7_VjF3A	501 S Meadow StIthaca, NY 14850
+6reQFssNNWaSXxA8wpTnrQ	500 Riverside DrHarlemNew York, NY 10027
+6sXD1ibeSdamDK567yJqMQ	107 1/2 Dryden RdIthaca, NY 14853
+6tCW7o9BR3o7N4KcyW8X2g	125 4th StTroy, NY 12180
+6z325jAQeDbHMWNYWblslg	404 Eddy StIthaca, NY 14850
+759k6KrlOl0_NAL3LdvNVQ	42 Saratoga AveWaterford, NY 12188
+75Q-TMhx81R1yfXSGaMcTQ	417 Manhattan AveSte 2HarlemManhattan, NY 10026
+7FD_ny67bnS6Zm3oa104VA	209 S Meadow StIthaca, NY 14850
+7GIS7jdPI0WwHYO6S_Grtg	9 BroadwayTroy, NY 12180
+7H9wF_UHLgWPpRCKu8TlJg	2 Cohoes RdWatervliet, NY 12189
+7LQgO9CBIOzzkWs4ydJ9JQ	606 Elmira RdIthaca, NY 14850
+7NiTUyoXawiCHxx_UA9z2A	Bayberry Square637 New Loudon Rd Rt 9Latham, NY 12110
+7QfMpiTnQIN8pSxfKRMGWQ	987 Dryden RdIthaca, NY 14850
+7QrOH27ATjpyduMgAYQ51Q	Uncle Sam Atrium49 4th StTroy, NY 12181
+7SsaAHy2WjyEcdSgFEZTGw	2840 BroadwayManhattan ValleyNew York, NY 10025
+7TGERtQHj93y6suqikzAPw	3 Wolfert AveMenands, NY 12204
+7Tp-J0La7FJtubAJpWd0nw	202 Dryden CtIthaca, NY 14850
+7V61AMy3wGV11o6Ezh8J1Q	2412 15th StTroy, NY 12180
+7VkQeZ-xbyq0b1UWema6KA	310 19th StWatervliet, NY 12189
+7Xxte5EfXHXtpHnCNRmDwA	438 W State StIthaca, NY 14850
+7YUnZEiBS8KENf426i7jHw	616 3rd AveWatervliet, NY 12189
+7YW6FGfOKG5IaSca0wW8WA	2882 BroadwayMorningside HeightsNew York, NY 10025
+7ZjXpKwP78R-02w12kLT4w	2888 BroadwayMorningside HeightsManhattan, NY 10025
+7hgygLzjMf3YQE6oL1E3Aw	71 W 109th StManhattan ValleyManhattan, NY 10025
+7j-oDHfVI6-Ecx89kTDWfg	601 Troy Schenectady RdLatham, NY 12110
+7kHYVs7iV2aFkUqqpSSxSQ	676 New Loudon RdLatham, NY 12110
+7ma4oc8qvFGht841xPdmsQ	1111 Amsterdam AveMorningside HeightsNew York, NY 10025
+7o2KJGfMVpaYnaYnvbNpXw	2701 Lavin CtTroy, NY 12180
+7pMyF2qq9pqMfzLZEvrohA	1131 Amsterdam Aveat 116th StMorningside HeightsNew York, NY 10027
+7pv2RLVmB4Tz5MrJhlczxA	Troy-Schenectady RoadLatham, NY 12110
+7r2ge7MKm8tZhxrwemvWGQ	23 Cinema DrIthaca, NY 14850
+7rqLjSX0o_oJNdfljxUn9w	260 Hoosick StTroy, NY 12180
+7u1vzX2lSme1gO7dWFUBAg	637 3rd AveWatervliet, NY 12189
+7ubwcyVFJ3rBCUubHz9B_g	722 S Meadow StIthaca, NY 14850
+7vXc_nhuo4HLHfeSxmLCVQ	2915 BroadwayBasementMorningside HeightsNew York, NY 10025
+7wDXPk1DdQ5sqeXEBFSCmw	2807 BroadwayManhattan ValleyManhattan, NY 10025
+8-tgw8B_rsN_RyWnv4Aw6Q	401 E State StIthaca, NY 14850
+80fvd_DsoW5XhwQIMBGvtg	1047 Amsterdam AveMorningside HeightsNew York, NY 10025
+81A-T4e519No4Ni8GD9_Zw	137 W 108th StManhattan ValleyNew York, NY 10025
+8Ao-lYJP4kiW2qySjiZcDw	444 River StTroy, NY 12180
+8BuQKohXzZGK5Bx1i9in1Q	221 W 107th StManhattan ValleyNew York, NY 10025
+8C1OukLjD0qjt_RHhXOTuQ	122nd Street and Riverside DriveMorningside HeightsNew York, NY 10027
+8NcUNYYey1WZMRchRdDQTw	410 Eddy StreetIthaca, NY 14850
+8Qe6g3Dv5NXN1Zq-egJk9w	1030 Amsterdam AveMorningside HeightsNew York, NY 10025
+8RTEtN5ZGv0AMhrpnI1NoQ	605 W State StIthaca, NY 14850
+8Soc4uJVuRY7h6GMsiwyiQ	213 S Fulton StIthaca, NY 14850
+8X_knSvMoxhMnPfB_HwN0A	106 E State StIthaca, NY 14850
+8XnaYCZxSH-K5_Bs1bIa_Q	310 Taughannock BlvdIthaca, NY 14850
+8c7YVaxYRUdZZt-Aj18aSg	108 Dryden RdIthaca, NY 14850
+8fDhtPpDAnFN44LVUIe3qQ	2113 Frederick Douglass BlvdHarlemHarlem, NY 10026
+8lLs3dsSN-Am2_EtNfbXqA	2893 BroadwayMorningside HeightsNew York, NY 10025
+8mYNPK-XbYpp8JweXVLNAQ	114 N Cayuga StIthaca, NY 14850
+8nGWw2SSiVuhh18NLVqDuw	116 W State StIthaca, NY 14850
+8oHCb-XvLpqCQD7En17Fzw	2843 BroadwayManhattan ValleyNew York, NY 10025
+8os_GCZlqyY8_q-T_NcYSw	2909 BroadwayMorningside HeightsNew York, NY 10025
+8s46fVH-xGp7nBe5PCX4Vw	122 La Salle StHarlemNew York, NY 10027
+8sa7w4HNK9Vh_fAeqhrL2g	347 Elmira RdIthaca, NY 14850
+8uJwnr_xwgJ-bTPTXm9SzA	644 New Loudon RdLatham, NY 12110
+8usIRMyUl-Zc279N70kWig	303 Troy Schenectady RdLatham, NY 12110
+8uz_6_ogNrpb_MxQnhjZGQ	1011 Columbus AveManhattan ValleyNew York, NY 10025
+8vscz8NEMJLfHFaAIt4C1Q	7 State StTroy, NY 12180
+8w2Wqa649lJTVL5AfJTvRw	2851 BroadwayMorningside HeightsManhattan, NY 10025
+8yKr1IvQPnLLK6iRpd0Few	185 Old Loudon RdLatham, NY 12110
+9E-HXTHRYatoSmB6OiVrFA	Albert R. Mann LibraryCornell UniversityIthaca, NY 14853
+9GCuUQec-Ugxh_dXSMPbfQ	2309 N Triphammer RdIthaca, NY 14850
+9LGAB5nFb4yML6Du5o7iJQ	2164 Frederick Douglass BlvdHarlemManhattan, NY 10026
+9PZS-FLHMU0q2d-X8tGffg	814 Hoosick RdTroy, NY 12180
+9Qor562YgEIn4nagoBxBNA	3 579 Troy Schenectady RdLatham, NY 12110
+9R5M8pvADCjM_0rfZTwb4A	425 River StTroy, NY 12180
+9aEtX7MDFjEtm5ySOViRUw	2118 Frederick Douglass BlvdHarlemNew York, NY 10026
+9bR0hOq5e6PAS3YY02ToKA	630  2nd AveTroy, NY 12182
+9e0YfZ3LZPOvsoL8NmqGHA	71 Division StTroy, NY 12180
+9gae-ckb14xVbKmScG49qw	410 Linn StIthaca, NY 14850
+9h9XN-vUqRuBpQ3HUHvzqg	600 W 116th Street BsmtMorningside HeightsNew York, NY 10027
+9iwVr4DdeZeRn8EHan7XfA	789 New Loudon RdLatham, NY 12110
+9nXLjrzvjMAnj8kCL5PMEw	335 Elmira RdIthaca, NY 14850
+9tHSgPt0_icRH9VNJqG-QA	579 Troy Schenectady RdLatham, NY 12110
+9v4-hQQkdcHaAaOTtEaSAA	337 BroadwayAlbany, NY 12204
+9wyk2kKdwhgMbh_x5P7HrQ	114 W Green StIthaca, NY 14850
+9y78ZlpIPAAgyApnPwIUcA	313 College AveIthaca, NY 14850
+9yUQbREZregqICtcMYT2LA	62 Vandenburgh AveTroy, NY 12180
+A1clCjm42q1IN_PzL42TaA	2901 BroadwayMorningside HeightsNew York, NY 10025
+A46G2OAvLxFswiONB50Rrg	2848 BroadwayMorningside HeightsNew York, NY 10025
+A48Q-KEOHyIifp8cfavUWA	1 Cayuga MallIthaca, NY 14850
+A5EfmQqXI5QYS_wkPIij8Q	2119 Frederick Douglass BlvdHarlemNew York, NY 10026
+A6Wlh_2LFsUMQHBhfTebMw	204 W Seneca StIthaca, NY 14850
+AClSNfHqqhhdxvv8oPQ6pw	402 W State StIthaca, NY 14850
+AFhoG5kir5vS1P9NpJ1MHQ	810 Hoosick RdTroy, NY 12180
+AHZXkGmWFU61cZ5cGsv7tw	954 Amsterdam AveManhattan ValleyManhattan, NY 10025
+AHzOTzpGa3pIfYDSP2VYIA	536 Pawling AveTroy, NY 12180
+AKH7qXOR8u3p_nluCyocrg	501 W State StIthaca, NY 14850
+ALjZDe2lAeN5JZjst6UD_w	938 Amsterdam AveManhattan ValleyNew York, NY 10025
+APzU2CBC7Gzwa2RTnUdAAQ	250 W 106th St2nd FlManhattan ValleyNew York, NY 10025
+ASY0-Lt0muDw396OyneMog	1233 Amsterdam AvenueMorningside HeightsNew York, NY 10027
+AUknRVMwXvP6tgHAZM0JRQ	Columbia University2960 BroadwayMorningside HeightsNew York, NY 10184
+AYuAIf2KkIUF8HaMyorwzQ	2 Archibald StWatervliet, NY 12189
+AZqsal3nzTkwQqxUol_UjA	13 3rd StTroy, NY 12180
+A_Fm4v2-gQuGBBI-GBx4Uw	16 Division StCohoes, NY 12047
+Ab7pVtIpinCvULKA3bjNnA	565 Congress StTroy, NY 12180
+AbEUFAGtAISqJms0_sS3Wg	403 College AveIthaca, NY 14850
+AcvgZ2nXndVnJZlofk4u3A	400 Stewart AveIthaca, NY 14850
+AdUzjrcMFSUmvw9gCFF08g	301 W 118th StHarlemNew York, NY 10026
+AeFCye5vFfyJzlKngrzrNA	2955 BroadwayMorningside HeightsNew York, NY 10025
+AeWKgDveIWXCDP5O9HzO3Q	114 N Aurora StIthaca, NY 14850
+AfB4qMOvU6CpIPsxMVH9kw	360 W 125Th StSte 2HarlemNew York, NY 10027
+Am6PvXZ5H3aUfUdbrtaD0w	Uris Hall1st Fl LobbyIthaca, NY 14853
+Ao7lyljfdSzZTIvat0dryA	Ithaca, NY 14850
+Avr8O0_d_hLHAhr_66pknA	409 Eddy StIthaca, NY 14850
+AyeuO1bEavABUBH27Nd_RA	2851 BroadwayMorningside HeightsNew York, NY 10025
+Az0BBEY-k1qWvnpl1RcFRA	1224 Amsterdam AveMorningside HeightsNew York, NY 10027
+BF1C8xLBOtIR70o4V83R2A	208 Dryden RdIthaca, NY 14850
+BHFHYZSUNhGPvTppxyLdYA	409 College AveIthaca, NY 14850
+BMQKfCU_n4LP1FtswlwnvQ	171 E State StIthaca, NY 14850
+BQcgpQxUM39PMO_YDl_CqA	993 Columbus AveManhattan ValleyNew York, NY 10025
+BVr-DHooewtP3_uq29dm4Q	310 Taughannock BlvdIthaca, NY 14850
+BXqiZbL2dURVjrzB5cCHmA	1302 Dryden RdIthaca, NY 14850
+BZbTia52sMs7XbAPN5PObQ	Cornell UniversityCentral Ave & University AveIthaca, NY 14850
+BcVx7vnk1CivTpB45SYDUg	2888 BroadwayMorningside HeightsNew York, NY 10025
+BdpaiSFcwCJKQHV7nhez7g	116 N Aurora StIthaca, NY 14850
+BdvxMQ3Qlb0hwo8sprp4RQ	251 River StTroy, NY 12180
+Bee0-WDxfs_zKfVvtJqbDw	Stewart Park RdIthaca, NY 14850
+BfGlv6S_Is6OkIoOngAnLQ	120 Dryden RdIthaca, NY 14850
+BhUXAnkoiRYEHBUsFLUaQA	44 Lower Hudson AveTroy, NY 12183
+BtpO21oEn-Yer3kYjGlHHw	740 Hosick StreetTroy, NY 12180
+Bu-D_mYJWctqUsqXZAJR6w	Goldwin Smith HallIthaca, NY 14853
+C1OLx5RjPgBM4j9q7sg12Q	1520 6th AveTroy, NY 12180
+C2E1E0o-ssSrf_dokwxTXg	1239 Amsterdam AveMorningside HeightsNew York, NY 10027
+C7SC0GWXcXmknid8ktTsaQ	106 S Cayuga StIthaca, NY 14850
+CBcU0NoeZNwUDvSk8MeA5Q	1349 Amsterdam AveHarlemNew York, NY 10027
+CBk3GqDIhAxm1Sm5uWZynA	601 Troy Schenectady RdLatham, NY 12110
+CJNj7-nfZZX7V1UnHm3atQ	Broadway between 115th & 116thMorningside HeightsNew York, NY 10027
+CLnsQyp0ndsCDFoKgrQs9g	Queen of Tarts143 Maple AveIthaca, NY 14853
+CPkUO2F9VENCaLXf4zj5UA	1344 Spring AvenueWynantskill, NY 12198
+CRMJCd47OM8AqMB8fRFuMA	611 2nd AveTroy, NY 12182
+CRrj-Tpbj54NcruRVKYW7g	68 Broad StWaterford, NY 12188
+CWk6yFOoKJH5URub5XsHDg	248 W 106th StManhattan ValleyNew York, NY 10025
+CYr_ln80SyS1B6Equ1qHUg	35 W 125th Street Rm 8HarlemNew York, NY 10027
+CdLwPbOEmln0VV3L8oQy_Q	104 Adams StIthaca, NY 14850
+Ce1OySu5mTlFot5sB0HcWQ	704 W Buffalo StIthaca, NY 14850
+CjJUp3KAs-zl1WCekVVngw	222 S Cayuga StIthaca, NY 14850
+CkRngbZWvrktBRQHlvg78A	2955 BroadwayMorningside HeightsNew York, NY 10025
+CmclEj-oP2N1MA7C2LpV5g	400 Old Loudon RdLatham, NY 12110
+CrXKBn6a1UaVycPh6YSyjw	1316 Amsterdam AveHarlemNew York, NY 10027
+Cvj76Of5Mo9kI5f4UMim6A	626 2nd AveTroy, NY 12182
+CxOApc8E_VnFvwYDbaIoSw	400 N Meadow StIthaca, NY 14850
+CyBo_6qf6A_ARgJ_vU5Ecw	356 Elmira RdIthaca, NY 14850
+D2SN1HiPSMrRHo9WxWVbTg	2141 Frederick Douglass BlvdHarlemManhattan, NY 10026
+D32R15kv2iJBXF1DSsGaZA	936 W End AveManhattan ValleyNew York, NY 10025
+D3Sw_VHsaQGYdQjsZDv-Nw	2857 BroadwayMorningside HeightsNew York, NY 10025
+D5Qph9y6TXNb2jIwQsSCwA	2309 N Triphammer RdIthaca, NY 14850
+D6771m_XpLsFwSSWJu3Tbw	E Hill PlzIthaca, NY 14850
+D6yVgX865XrzUtcewjOy-g	1025 North Tioga StIthaca, NY 14850
+D7dGgNFXFJZ8nck4nbbvTg	7 Hill StTroy, NY 12180
+DC_zGdDwXAT4jXRgv4nL8A	104 W Sand Lake RdWynantskill, NY 12198
+DGPkpfu9hm-ETpU6jL-ujQ	3496 BroadwayHarlemNew York, NY 10027
+DMXkPjaKCMQjNB-_Ll5geQ	951 Amsterdam AveManhattan ValleyNew York, NY 10025
+DOI4vjKHLYKz9XMsvp24Bg	813 New Loudon RdLatham, NY 12110
+Dd40RaQyCWIlGjNsG0wkAA	250 BroadwayTroy, NY 12180
+DfOtgLP1a-a8lQlIvYksDQ	14 Spring AveTroy, NY 12180
+DgHEzcSBotbfxW-IJPAMuQ	2895 BroadwayMorningside HeightsNew York, NY 10025
+DphtfC7hEDYik1Raf7VN0Q	2770 BroadwayManhattan ValleyNew York, NY 10025
+Dq02EVJCc6Qck3eFywZyTw	284 Saint Nicholas AveHarlemManhattan, NY 10027
+Dv3MJIreiNRa6iuLe_yfkg	23 Cinema DrSte CIthaca, NY 14850
+DxZ_eNb7S4ZWOdfXJkQlGw	970 Amsterdam AveManhattan ValleyNew York, NY 10025
+DzlCEhXW6OadK6ETcmJpwQ	2082 Frederick Douglas BlvdHarlemNew York, NY 10026
+E--S5uEvbg11E8PC2GCYsA	270 W 123rd StHarlemManhattan, NY 10027
+E3PC72pmXgBP_GBWq-HvtA	91 Broad StWaterford, NY 12188
+E6AZ7qymJWky85VFeeN0gg	315 Eddy StIthaca, NY 14850
+EEH6_Akx74HuYBcAfSozSA	2167 Frederick Douglass BlvdBetween W 116th and 117thHarlemNew York, NY 10026
+EHJGGhZwHk2q-OQgBqMX0g	158 Main AveWynantskill, NY 12198
+EHMx2IhI-_ooHQo0N-AnHA	2163 Frederick Douglass BlvdHarlemNew York, NY 10026
+EJ_Rp2NFUdMi1j652A9J4Q	737 Willow AveIthaca, NY 14850
+EQCyF9ksaC6Bp88TFI03iQ	116 W State StIthaca, NY 14850
+EQOZh5sP-Ipo_JefIKAVqg	315 Elmira RdIthaca, NY 14850
+ER0c0-cVKhW2O3sjUQawXg	1090 Amsterdam AveMorningside HeightsNew York, NY 10025
+ETPYh5nPNP4cFG36E-QBkw	2301 N Triphammer RdIthaca, NY 14850
+E_Tc6v0C8QCKUddppi8QVw	1012 N Aurora StIthaca, NY 14853
+EagYyiLaNjIVJ_HFDwlGBQ	2756 BroadwayManhattan ValleyNew York, NY 10025
+ErMFay-6o83QB2P1k4ALAg	1020 Amsterdam AveMorningside HeightsNew York, NY 10025
+EtHDmvirGVYBXX3kUmQQrQ	2072 Frederick Douglass BlvdHarlemNew York, NY 10026
+Ev04GeSgAXwKsO1qJiO9xQ	1346 Amsterdam AveHarlemNew York, NY 10027
+Ex6JHoLQr2-3dNwG2s5Z2w	100 BroadwayMenands, NY 12204
+Exw0nd2djjGsE_SeBsyIzg	1006 W Seneca StIthaca, NY 14850
+Ey6t9YAXkaIp8Qi-nWEnDg	146 E. State StreetIthaca, NY 14850
+F2csT_p_jAIPzCl4nZEC6w	425 W Seneca StIthaca, NY 14850
+F5-BNQmodMvgsMVwzSRQPA	209 Dey StIthaca, NY 14850
+F5nlRrqLf53BRK2jqMATaA	1308 Mecklenberg RdRt 79Ithaca, NY 14850
+F6ReGpF94EKWzh6dSRVIrQ	2859 BroadwayMorningside HeightsNew York, NY 10025
+FE374yeGPP4P1G2o2Oi-0w	654 Elmira RoadIthaca, NY 14850
+FJsh0TOIQJWj3aQP4Yg0_A	526 W State StIthaca, NY 14850
+FL9eDUQdDWvK2_ctYIgYDw	2824-26 BroadwayManhattan ValleyNew York, NY 10025
+FM2VxaMmkRv9emBQRAEKsA	1302 Amsterdam AveHarlemNew York, NY 10027
+FRPfithXCoYCPWRSV_pFlg	311 College AveIthaca, NY 14850
+FVPW69_227gv2zSq46-FhQ	624 W State StIthaca, NY 14850
+Fa74LEFqNYjIZvT2kVyTlw	795 3rd AveWatervliet, NY 12189
+Fje1a15z84NYIjMQxhOBIA	534 W 112th StMorningside HeightsNew York, NY 10025
+Fk495HaokZDrGkAG8s_dlg	2099 Frederick Douglass BlvdHarlemNew York, NY 10026
+FmxOs0Knixh5JQ24EPufRA	120 Hoosick St#156Troy, NY 12180
+Fp8FUjuMRCPVNYPfyeVq0w	381 BroadwayMenands, NY 12204
+Ftu5JVoK5JEZAc-YABU0oQ	1237 Amsterdam AveMorningside HeightsNew York, NY 10027
+FycA9YpyKg-5jZ9b1k2OaQ	339 Elmira RdIthaca, NY 14850
+G3-STn8vhQXsPObIqlBGPw	2310 N Triphammer RdIthaca, NY 14850
+G6eVUNDvfCiFy8ICavGScQ	208 Dryden RdIthaca, NY 14850
+GBHEa6LiEnRtmIovys9Bag	7 Penn PlzSte 1801HarlemNew York, NY 10116
+GDATF7Wkz9XhaucMdRxUpg	110th St and BroadwayManhattan ValleyNew York, NY 10025
+GDELvDNJGYooK__jXu6foA	2217-23 Frederick Douglass Blvd.HarlemNew York, NY 10026
+GFMUL8Z44l1wD7KXop18sA	1213 Taughannock BlvdIthaca, NY 14850
+GKK581tdMyPvPsTPCU89oA	231 Wade Road ExtensionLatham, NY 12110
+GPBqqLKwuIePeDf2tlwTRQ	51 Main AveWynantskill, NY 12198
+GUoVncYpFzfxt2HJZFBqDw	685 Hoosick RdTroy, NY 12180
+GVqmpOsG-pDp9NltaLfu-g	215 E State StIthaca, NY 14850
+GXcX7pE3hNQoKqANf2im0A	2303 N Triphammer RdIthaca, NY 14850
+GbmPUmt7nwdUpcF19Qeyww	Teachers CollegeColumbia University525 W 120 StMorningside HeightsNew York, NY 10027
+GcMTcgEytpoGLlhEbqc2Lg	626 New Loudon RdLatham, NY 12110
+GeRh5XnPU8WukQHfE2URwg	122 N Aurora StIthaca, NY 14850
+GkYn-SOBchBmhXuD-TZHgw	342 N Mohawk StCohoes, NY 12047
+Gnsm2MHJm_ai3lM6B5X8kQ	124 The CommonsIthaca, NY 14850
+Gt6FEod3mBqbuigjHpRYCQ	1285 Dryden RdIthaca, NY 14850
+GuYgVQJJctygO-YHpv5bBA	2855 BroadwayMorningside HeightsNew York, NY 10025
+H8TAPuQZa_pFaitbRnpY8Q	2911 BroadwayMorningside HeightsNew York, NY 10025
+HC9E8-yBfMKkJTTvelRLyw	990 Amsterdam AveManhattan ValleyNew York, NY 10025
+HDEP7eFGhs3DYIXRETVlkQ	391 N Greenbush RdTroy, NY 12180
+HDh3eMccse_FTVLS2hO_AQ	318 N Aurora StIthaca, NY 14850
+HJI11HpyGvIQ1UCtKohMlg	Columbia University2960 BroadwayMC 1801Morningside HeightsNew York, NY 10027
+HPfLakkZlRxV4Z3WDeS0RA	741 New Loudon RdLatham, NY 12110
+HVD97JegyHENmARIUcDHgA	312 E Seneca StIthaca, NY 14853
+HYR0_XYOGgH0Bh7wgbNkoA	118 N Aurora StIthaca, NY 14850
+Hc-uW3uYqAOyB2as00J9og	2935 BroadwayMorningside HeightsNew York, NY 10025
+HkNs9-WeitHnwACu6FJEcA	964 Amsterdam AveManhattan ValleyNew York, NY 10025
+HmXS5HN-E-DVMEY0mwjelg	941 Amsterdam AveManhattan ValleyNew York, NY 10025
+HpQ6_Zbx7NAARO3TDMykTg	2780 BroadwayManhattan ValleyNew York, NY 10025
+HxXDxUzFAhsOgOxH78MyGg	39 Hill StTroy, NY 12180
+HyceEAyGl0t6_-LJbxMq2A	2913 BroadwayMorningside HeightsNew York, NY 10025
+I-chJJ72VHd_-WAaRVWhTg	308 Stewart AveIthaca, NY 14850
+I2J9rTN_HKO9q-Y2mkSWpg	738 New Loudon RdLatham, NY 12110
+I4hzlqf5JJAPSYygp1AyoQ	210 St Nicholas AveHarlemNew York, NY 10027
+I6QCXaOPrQa-i5zOHhRFBw	130 Statler DriveIthaca, NY 14850
+I9jvXKOON8IECXOZ04ULRQ	549 Troy Schenectady RdLatham, NY 12110
+ID07ERaiqMpl-S2tdQSXlA	700 Cascadilla StIthaca, NY 14850
+IDSpUSv-Td6-y8rC4JuCsw	185 St Nicholas AveHarlemNew York, NY 10026
+IIsJN_ilLI36zGAF3SMCCQ	964 Amsterdam AveManhattan ValleyManhattan, NY 10025
+IJcNKwyF1ELlFpJvRRW7GA	101 Dates DrIthaca, NY 14850
+IRQmUno4GQMvEDifCXO-cw	3141 BroadwayHarlemNew York, NY 10027
+IW4oIKPotcup1NuI7erMcg	1150 Danby RdIthaca, NY 14850
+I_OPhKQDHUXHXDtFOtJCrg	357 W 125th StHarlemNew York, NY 10027
+Idx8xKpOpz7llQS_5qSBbA	478 5th AveTroy, NY 12182
+IfLTw-yFMpuiqAdYRxLv8Q	2210 Frederick Douglass BlvdHarlemNew York, NY 10026
+IgswO3ShQexEcfAPDLTNTw	701 W Buffalo StIthaca, NY 14850
+IsqGaD5u47Qx1Ms-VKJ-bQ	1270 Amsterdam AveMorningside HeightsNew York, NY 10027
+IvUnxOP0cv3NzNBE0f3jng	2343 N Triphammer RdIthaca, NY 14850
+IzY2Dgq9VG9L_odPVkzQqg	416 W 126th StHarlemNew York, NY 10027
+J0B5SLSMYcQpKtSKqgRwjQ	2141 Frederick Douglass BlvdHarlemNew York, NY 10026
+J90ytQ-ICqp5hkZYjevaig	159 4th StTroy, NY 12180
+J9Yufym0BqTYVNTqW-n3ag	553 Manhattan AveHarlemNew York, NY 10027
+J9xVQScnr0lYWl61_mLXMA	2168 Frederick Douglass Blvd117th StHarlemManhattan, NY 10026
+JCPykGY64Ok0MXo1T_35Cw	2158 8th AveHarlemNew York, NY 10026
+JCeKdD3GcqEiIpS1hGTqlQ	601 W 114th StMorningside HeightsNew York, NY 10025
+JEscBi56L8snb7wlqbdXMw	328 W 125th StreetHarlemNew York, NY 10027
+JGsp7JvzBy6OxI9vIemQUg	Ithaca, NY 14850
+JJE21nzSNWn_mP6xWApyHQ	2881 BroadwayMorningside HeightsNew York, NY 10025
+JMQx87SPt0vt71MKniTz6Q	179 Graham RdSte FIthaca, NY 14850
+JOkK1NBCT7qPrAy5aHUS1Q	143 Maple AveIthaca, NY 14850
+JSVYDfdYVYFXkkn2K1t4oA	99 N Greenbush RdTroy, NY 12180
+JUYET2R23CDJyhVPht1AKg	430 West State St.Ithaca, NY 14850
+JV5oa5-KGdiWnqrKPoxSug	2788 BroadwayManhattan ValleyNew York, NY 10025
+JY576sTpB3ljay2IAajZ2w	2892 BroadwayMorningside HeightsNew York, NY 10025
+JfZY98Jopy8OvYrXqKrF0Q	408 E Upland RdIthaca, NY 14850
+JhWgmJHXb4avC1-vkpkkYQ	187 Old Loudon RdLatham, NY 12110
+Ji3jBBWln4ABhVfGXXA_Sw	607 Troy Schenectady RdLatham, NY 12110
+JklDaUtd-mp7K2JVwiqVjw	218 Hoosick StTroy, NY 12180
+JnGS6ZH0HIC789XkhYyhtg	700 Warren RdIthaca, NY 14853
+Js21gW1cDai-0ZA8F0qCYQ	949 Columbus AveManhattan ValleyManhattan, NY 10025
+K-vL-ShpGsgbwf5chcE6vg	2893 BroadwayMorningside HeightsNew York, NY 10025
+K-wyXXi5lPM2cwaV9_vXcQ	1090 Amsterdam AveMorningside HeightsNew York, NY 10025
+K6lGVf_2piDLwUX-K6d6qw	2369 N Triphammer RdIthaca, NY 14850
+K8RBVMgQxJ5NRy6AB9XupQ	322 N Meadow StIthaca, NY 14850
+KBC-CCXC5oFJLaDfPlXNUA	254 BroadwayTroy, NY 12180
+KGvPurrSx48ngQ7Ci66UrQ	516 West State StIthaca, NY 14850
+KNfrxyHr1oIGaRYAJK-W8Q	414 Elmira Rd#6155Ithaca, NY 14850
+KPSqZ737VWG5J2NRRLJZuw	635 Stewart AveIthaca, NY 14850
+KVAacSMfpR9Me-2bJPQNVw	71 4th StTroy, NY 12180
+KVPsaD2vY64UIvnNfKDHbA	1159 Dryden RdIthaca, NY 14850
+KY7-La6hP_9QA-lP9MYcLw	PO BOX 3787Ithaca, NY
+KbRquhsEl-Ax_HUvakAxHw	417 W State   MLK Jr StIthaca, NY 14850
+KcYBYtJvlKiRBZmOcdUttg	974 Amsterdam AveManhattan ValleyNew York, NY 10025
+Kcj2WNOl7fx_E4PSIFYWFQ	464 BroadwayTroy, NY 12180
+KgfFn5Z51DZoUzhJ186a0A	2791 BroadwayManhattan ValleyNew York, NY 10025
+KhsxSQnY3yUHDQFZKAn1Rw	200 BroadwayTroy, NY 12180
+Ki2-LougDEv34G5EY1sz4g	953 Amsterdam AveManhattan ValleyNew York, NY 10025
+KjFr-ZMtvlgf4l6NbPtCBQ	1302 Amsterdam Ave.HarlemManhattan, NY 10027
+KjMloHECqYkQEJslek8v_A	720 Hoosick RoadTroy, NY 12180
+KkAQY0ODXkD_LSUIDGx1Rg	1617 BroadwayWatervliet, NY 12189
+Kkt13-SwaaYmnZaLdacg2A	1308 E Shore DrIthaca, NY 14850
+KpVhTeqORq0EDe5r-X0FAA	130 E State StIthaca, NY 14850
+KrFjh__SDUyJ8jeyldkeFA	200 BroadwaySte 2Troy, NY 12180
+KsJkO8Y3zQoxJaVsYI15fQ	522 W State StIthaca, NY 14850
+Ksadbzi6BFnyDH9QM9rWkw	280 St. Nicholas Ave2nd FlHarlemNew York, NY 10027
+Ksyxv3-3IaveyCmLnzXjUA	742 S. Meadow St.Ithaca, NY 14850
+KxfNKdJmRpdjxAJIYeAGSQ	614 S Meadow StIthaca, NY 14850
+L5ftnUjqvN5YSwblQ0V_jw	601 Troy Schenectady RdLatham, NY 12110
+L7J7eDgJTIctG8JzvMooMw	2168 Frederick Douglass BlvdHarlemNew York, NY 10026
+LF4XXXd-Q6KA-DtQj6C59A	969 Columbus AveManhattan ValleyManhattan, NY 10025
+LJuHxobQsa7lW0c1wttY2A	258 W 109th StManhattan ValleyNew York, NY 10025
+LLTnKM7lRgxtImsJI-1xVQ	192 Remsen StreetCohoes, NY 12047
+LMy26GNK1lyyz4j-E1A6GQ	992 Amsterdam Aveat 109th StManhattan ValleyNew York, NY 10027
+LO0TfAyhOYR8fVuido_9aA	9 126th StTroy, NY 12182
+LP529kzCViIWtZFXA_BZ-g	121 St Nicholas AveHarlemNew York, NY 10026
+LScpEFvKvx9JH5oQGTiJuw	2258 15th StTroy, NY 12180
+LTUAveXRNBEU5wAZQkBZ1g	127 Remsen StCohoes, NY 12047
+LUIIqzt3NnBB8OisXoGOjA	506 W State StIthaca, NY 14850
+LW1svH-IFU7LAgK1giqi7Q	100 Dryden RdIthaca, NY 14850
+Lcjkkd6LYJ3BN9gNPNnzEA	15 Campbell AveTroy, NY 12180
+LdHt0nc2RJ6BBvR0itYNpg	2893 BroadwayMorningside HeightsNew York, NY 10025
+LdY3jfq2Pym6LMv_Od_ROQ	2870 BroadwayMorningside HeightsNew York, NY 10025
+LfHXmKTea4GZpXIcJy50lA	140 E State StIthaca, NY 14850
+LnJ6x6oVib3AHRbg38ZzKw	324 Elmira RdIthaca, NY 14850
+LnljaOZP7CnmtU3mvf9q0Q	654 Watervliet Shaker RdLatham, NY 12110
+LrLpsCSN9Ls69CFN4ni81g	Kimberly Square Plaza475 Albany Shaker RdLoudonville, NY 12211
+Lr_x2ey_DQs_8ACS-1t7rA	271 West 119th StHarlemNew York, NY 10026
+LvzfVDlvb9r0fcGXeitVKw	2115 Frederick Douglas BlvdHarlemNew York, NY 10026
+M0o9CXzYH_k6vgG-0vVkVw	710 New Loudon RdLatham, NY 12110
+MBISWEvAzDb710ZCyvNu2A	823 Danby RdIthaca, NY 14850
+MBuKwemMclYhLx_rf0Jgxg	982 New Loudon RdLatham, NY 12110
+ME3oRPNyRLdPJQMesro_dw	2808 BroadwayManhattan ValleyNew York, NY 10025
+MF8l_0vWjjNgv5dOuf3w0g	2780 BroadwayManhattan ValleyNew York, NY 10025
+MOMN8ilCCy9uQIMGUMzuIw	One Plantations RoadIthaca, NY 14850
+MQ5-C4GGTEBsEJoHbrtKFg	953 Columbus AveManhattan ValleyManhattan, NY 10027
+MTGpGdDh8oVpDlVgigJo5Q	903 Mitchell StIthaca, NY 14850
+MTosaEVCSW1wapIWZXGkzw	1527 15th StTroy, NY 12180
+MZJ9QAH-hgvtuL49a6D7bQ	401 Elmira RdIthaca, NY 14850
+MbOrrPCdUxAJk6aW6L7lzA	2841 BroadwayMorningside HeightsNew York, NY 10025
+MezkIKtuDY_vwE0SXyMbww	319 College AveIthaca, NY 14850
+MfqIKCpI3R8LyIkMVQva-w	2296 Frederick Douglass BoulevardHarlemNew York, NY 10027
+MgVcMxtMetUfujhgquaXYA	130 Statler DriveIthaca, NY 14853
+MpcN0PPqdFyPesV4X8pZxQ	114 Dryden RdIthaca, NY 14850
+MuTJSKkzF_fmK-eG8RoZSA	403 River StTroy, NY 12181
+MzA42lKJ2i2TMS3ILaVw4Q	942 New Loudon RdLatham, NY 12110
+N-gK6k_HficaGfEILyT5cw	335 Pine Tree RdIthaca, NY 14850
+N3l2IfhyzfRMgKKSfeL7cg	401 E State StIthaca, NY 14850
+N9xkYnKYLIEu8jj2x9CA9w	161 Troy Schenectady RdWatervliet, NY 12189
+NAEIYyeXtrxRn4OlSAm_4Q	181 Troy Schenectady RdLatham, NY 12189
+NBhp5TgshOcfwOYmZv-fQw	Newton Plaza594 New Loudon RdLatham, NY 12110
+NG_3NoVajWsbSPdz_ndLJg	535 W 114th StMorningside HeightsManhattan, NY 10027
+NLhgRKwRGvXrehBD5AcqPQ	102 E State StIthaca, NY 14850
+NRO1_u7mOE-ffhXE6ShUHw	998 Amsterdam AveManhattan ValleyNew York, NY 10025
+NRQbIOVnEnsJ8t2xg7W_zg	2850 BroadwayMorningside HeightsNew York, NY 10025
+NTvmn_-bdTP8wGKLD--JWg	304 S Cayuga StIthaca, NY 14850
+NY8E-FmJX7eQ9y4KN9eKTA	2255 N Triphammer RdIthaca, NY 14850
+NmRnh2XUzJZ0TzopaVNGUw	1020 Ellis Hollow RdIthaca, NY 14850
+Nn88q-dPgbbTxExMy1t1mQ	701 New Loudon RdLatham, NY 12110
+NrN-0SRAb33cVyTXHj3kPg	214 E State StIthaca, NY 14850
+NrSikK-10UHAd31l9wa65g	601 West 114th StreetMorningside HeightsNew York, NY 10025
+O2jCWIOWb-IhyZGZLTNNoA	2162 8th AveHarlemNew York, NY 10026
+ODqWSEpHeOkSFBrdIkN9Ig	116th & Amsterdam AveRoom 602Morningside HeightsNew York, NY 10027
+OJSk__KkBckKOZkMVVuUig	79 Vandenburgh AveTroy, NY 12180
+OLy75I6KRDZEKL7S_-U96g	62 Vandenburgh AveTroy, NY 12180
+ORRVnbb-niRZKCUX8CYrjQ	120 Hoosick StTroy, NY 12180
+OUNndH-Pex84qGDICzO__Q	106 S Cayuga StIthaca, NY 14850
+OV3MdfxlUaXKOQqwhumyMA	315 8th StWatervliet, NY 12189
+OZtXG5DUsJZrtMFWodCNnA	2100 Frederick Douglass BlvdHarlemNew York, NY 10026
+OdGx0UHReZzXbD3kcmXYQQ	620 Loudon RdLatham, NY 12110
+Og7V1RKK0juV0QLuJyYcjw	938 Amsterdam AveManhattan ValleyNew York, NY 10025
+OhGOdDlZaq8MquvQ_wkSSw	11 Graham RdIthaca, NY 14850
+OiDohphqxOh2ux3mymjifg	2906-08 BroadwayMorningside HeightsNew York, NY 10025
+OjczqLl-q-NQ2oyvWUMagw	722 New Loudon RdLatham, NY 12110
+OlWSPtrdLlNe1uy6UuN-EQ	407 Eddy StIthaca, NY 14850
+OoBW8j67vk90L5a2SF29Sw	33 2nd StTroy, NY 12180
+OpOZH_lGPGOT_s1eeMqeNA	997 New Loudon RdCohoes, NY 12047
+OrCXDG0nyWd3mjrodikI8Q	2814 BroadwayManhattan ValleyNew York, NY 10025
+P0FaNB6xWUkumB1Pe3I8Ig	213 1/2 Dryden RdIthaca, NY 14850
+P0kIb32CXjedhhFeWsRFGQ	229-227 W 116th StHarlemNew York, NY 10026
+P2g9XTX11wuEqtlLLqWfig	W 115th St and BroadwayMorningside HeightsManhattan, NY 10027
+P55ryS7ZZq2hQfIOTDb8ww	595 New Loudon RdNewton PLazaLatham, NY 12110
+P5E6e4qHctElZuDa4uyolw	130 E Seneca StIthaca, NY 14850
+PBHj7HxoJvn3sx4mwvGnCQ	On The Commons171 E State StIthaca, NY 14850
+PBYypuk9DN-ccqrfYEJ9JA	2955 BroadwayMorningside HeightsNew York, NY 10027
+PE2Ny-4ajVpNnKH-hV5BPQ	W 117th StFrederick Douglass BlvdHarlemNew York, NY 10026
+PL2a8E44ug8gMwVJMnovRA	2794 BroadwayManhattan ValleyNew York, NY 10025
+PN4pX81FkbBS7qfdEKo1jQ	250 Jordan RdRensselaer Technology ParkTroy, NY 12180
+POL04pXVtUJ4aQguvZF_Pg	175 Main AveWynantskill, NY 12198
+PQrCluMVsWTGvloynpKBog	936 Amsterdam AveManhattan ValleyManhattan, NY 10025
+PUATlg41Z_bnmOPWcPBt-A	400 W 119th StMorningside HeightsNew York, NY 10027
+PUnu6su7FrPY0vVpGXbeJw	2160 Frederick Douglass BlvdHarlemNew York, NY 10026
+PXWGgHRDcG6mxuOJTAX4uQ	2801 BroadwayManhattan ValleyNew York, NY 10025
+PZs_KYTA3oUog4utEYhxqw	955 W End AveManhattan ValleyNew York, NY 10025
+Pa4kzzo2d1AUM95Hcrh7lA	40 Main AveWynantskill, NY 12198
+PcngXr5t49QK8Lj1Xi3aIw	749 New Loudon RdLatham, NY 12110
+PhQAzfj2n3gaKlUb-NxC5g	212 Center StIthaca, NY 14850
+PmgfJ4OakG2c1bKRd0HZUg	In The Ithaca Mall40 Catherwood RdIthaca, NY 14850
+PpDSMh6Jx6OlTIZwQXvb6g	115 the commons, in Autumn Leaves' basementIthaca, NY 14850
+Pt5lXkpGD1LRv0zLpCn0KA	2929 Broadway2nd FlMorningside HeightsNew York, NY 10025
+PuxciV95uUw6YkWsou31aw	10 Brentwood Dr Ste AIthaca, NY 14850
+Pw1UAZJMK6YoRy-HhAAfjg	729 Pawling AveTroy, NY 12180
+Q-aST5Z92-l8yq_NkbX7aQ	953 Danby RdIthaca, NY 14850
+Q0mXaZfIFfWlwP4lBpSzxQ	1256 Amsterdam AveMorningside HeightsNew York, NY 10027
+Q2184jkcanOFixERfoPdmQ	1355 Amsterdam AveHarlemNew York, NY 10027
+Q2Y7uAMBG4lnwvAjA5Ymow	150 Remsen St,Cohoes, NY 12047
+Q3RMsLeHCAidL5E_axgYcA	40 Catherwood RdSte 49Ithaca, NY 14850
+Q8oXUks0GYAjz4EZ_neQ_Q	40 Catherwood RdIthaca, NY 14850
+Q9lR_PhTic46VgMdeMmUTw	301 W 110th StHarlemNew York, NY 10026
+QE9JPcbaUycwoVcv8EV2NQ	140 W State StIthaca, NY 14850
+QHYqNQhQ8NVK0RX68Y4PuQ	2167 Frederick Douglass BlvdHarlemNew York, NY 10026
+QHnsVdqOb8py4qDEhynbMg	131 E Green StIthaca, NY 14850
+QJ7KuBFj6iKmyS4BVGGJnQ	350 2nd AveTroy, NY 12182
+QM78KebaKJgIdIWEbmPc6g	231 Wade Rd ExtensionLatham, NY 12110
+QNgOyKQNDZ2BED7c2gctuA	133 Remsen StCohoes, NY 12047
+QOtYW6u0g5Te6YRVQ4uaUQ	207 N Aurora StIthaca, NY 14850
+QSGSWUCRzhoQa-v5dGoD6g	126 N Aurora StIthaca, NY 14850
+QTgL6GJ7TTOZtnjM-Abjfw	657 Elmira RdIthaca, NY 14850
+QUNchfxuTOOmjAXkHivYdQ	2200 8th AveHarlemNew York, NY 10026
+QVBhMvECQY75UGqv_3LmiA	130 Main AveWynantskill, NY 12198
+QWOwGC24G4KmTGRCSNeLyQ	801 W Buffalo StIthaca, NY 14850
+QXOFf7qzpRcN0J5Dt2_zIw	87 Uptown RdSuite J105Ithaca, NY 14850
+QXkVU4HaNyjXekCx-g6JMw	701 Taughannock BlvdIthaca, NY 14850
+Q_XaVU8MgXajaY5vAFkwNA	222 Elmira RdSte AIthaca, NY 14850
+Qc3exGUfsxCWoPdKoO7UjQ	594 New Loudon RdLatham, NY 12110
+QeK3lOP-CTZS72YgeXiiqA	423 Franklin PlIthaca, NY 14850
+QggxXcppHbsFRTHOManGJA	128 S Cayuga StIthaca, NY 14850
+Qh-hU4JKEjF4kkSe0IGdSA	680 River StTroy, NY 12180
+QjNzU0Ys6698OKHzLVDeNw	260 Hoosick StTroy, NY 12180
+QmV1z4Knz8kmSv4vrY_8Yg	Cornell UniversityB07, Day HallIthaca, NY 14853
+Qn10NNqKN3f85VdK15VOLw	300 West 110th StManhattan ValleyNew York, NY 10025
+Qq7vHxL3Z_KF5WZLR9kIoQ	130 Statler DrIthaca, NY 14850
+Qw2fgcgqw-0a61tdQB2beQ	2235 Frederick Douglass Blvd Frnt 4HarlemNew York, NY 10027
+QwcCoo2vNXM_z1h3OdARKw	2300 N Triphammer RdIthaca, NY 14850
+R5tjtiq1YeSAS4MZmjNnWw	17 1st StTroy, NY 12180
+R7YIFFhAcUODUVz99QeaMQ	360 W 110th StManhattan ValleyNew York, NY 10025
+RCaEwetKgAWLpoWNqr8lbQ	119th and RiversideMorningside HeightsManhattan, NY
+REIpw5yD6rl1qNtOya3pjQ	601 Troy Schenectady RdLatham, NY 12110
+RN2Aw4JLtLL7_5sIW-pGUw	200 Troy Schenectady RdLatham, NY 12110
+ROGnIn2Hnwlrn7tdUzq7qA	2831 BroadwayManhattan ValleyNew York, NY 10025
+RUiGb3P_5HN_Ki3a2r13GA	443 5th AveTroy, NY 12182
+RZmmcTKMDo4UErKn0Ve7gg	618 New Loudon RdLatham, NY 12110
+R_hKp1hS3oT4BAEyjjFLlw	610 2nd AveTroy, NY 12182
+Rbhk_Ci0jb0EcGfj8ZePmQ	215 N Cayuga StIthaca, NY 14850
+RfBjAhfw0sPqEaGm8qEQzQ	579 Troy Schenectady RdLatham, NY 12110
+Rl2_H4wcEuts7NC_HbDOpQ	260 Roberts HallIthaca, NY 14853
+RmPofKXO-25wDUtb5TsdKw	414 N Tioga StIthaca, NY 14850
+RmrYUMJvBzSAtjtMYH1Glw	49 3rd StTroy, NY 12180
+Ror-3i2eib1r1dEwCfLMtA	23 Cinema DrSte DIthaca, NY 14850
+RqLn2hNnCcq6U7sQIUcHOw	110th St and BroadwayManhattan ValleyManhattan, NY 10025
+Rqd0QYe69s9hN1oKkwBBvA	412 E Upland RdIthaca, NY 14850
+RrI8TixksrEf1MhHipvZlQ	455 BroadwayTroy, NY 12180
+RsF8-hVSFKH-JuZbfv0zZw	2134 Frederick Douglass BHarlemNew York, NY 10026
+RsKER58BDYwZIetomedllg	208 W 118th StHarlemNew York, NY 10026
+Rt0fJK1BA9dQDWSX1usBMg	303 W 116th StreetHarlemNew York, NY 10026
+RvT1fRZIyEBeeUX_0MN2nQ	1408 Trumansburg RdIthaca, NY 14850
+Rx2K7Lkhk2SnuKw6pHJNaw	Ithaca PlzIthaca, NY 14850
+Rx3m7vtf-eWBSQ4AavQl8g	1345 Amsterdam AveHarlemNew York, NY 10027
+S-xUsS4RKzBrOnAjy6lnyA	934 Amsterdam AveManhattan ValleyNew York, NY 10025
+S3KI4FwF7nf2ykZeBrvYCQ	2246 15th StTroy, NY 12180
+S4GEsM7PLEZO4EBFwnERCQ	99 Congress StTroy, NY 12180
+S6rauZOfTuU2SbqMKYORfQ	698 N Pearl StMenands, NY 12204
+S8lAqKLZp1FTn-TvlXBBQA	41 Broad StWaterford, NY 12188
+S9AZIS8hieJO5Ep8YTs3Rw	529 S Meadow StIthaca, NY 14850
+SA4Qag0p91VQhXAIQt5RfQ	231 Wade Rd ExtensionLatham, NY 12110
+SExJLA2RgTioEpkz1Z61eA	120 Hoosick StreetTroy, NY 12180
+SHflj5Ie7-BeC6aSQFJc9Q	120 Hoosick StTroy, NY 12180
+SPrfs_Nsfz9O_rH9Ne21lw	400 Old Loudon RoadLatham, NY 12110
+SQFOc2uHI_A9LbohNJ146g	205 Dryden RdIthaca, NY 14850
+SROh3XCvrgEqc7f_JqC-hg	HarlemManhattan, NY 10026
+Say8vUn6wmlb-HMHFsK2Wg	950 Columbus AvenueManhattan ValleyNew York, NY 10025
+ShSe4B4BaLr-jBbxHc76Xw	222 Elmira RdIthaca, NY 14850
+SmLJWc73PcL3gox-LiVAaQ	9B Johnson RdRte 9RLatham, NY 12110
+SoiQJEuE9biX5cwBvlMVLA	2134 8th AveHarlemNew York, NY 10026
+Sp-ye5N_Ur7y-4tPutlLCw	2764 BroadwayManhattan ValleyNew York, NY 10025
+SvuJs-3p4H3FZaoF3K3y3g	973 Amsterdam AveManhattan ValleyNew York, NY 10025
+Swm_L7Ang0UkSE0i9FdG0Q	308 Stewart AveIthaca, NY 14853
+Syiv-lUfj0iScV4Aw9yWaA	Albany, NY 12198
+SzM2o6LPGqNUgREf9kuaVg	505 W 125th StHarlemNew York, NY 10027
+SzVZm-W1Od4dblJUhkZ1VQ	41-112th AveTroy, NY 12182
+T-SJruEi0laaHeDaR6IOFg	8th St & Middleburgh StTroy, NY 12180
+T1lsvTvjjcPgNKIf5oCX1w	100 2nd StTroy, NY 12180
+T2eloPPk4pdrP9DFa4zpTQ	West 120th St15 west 120th stManhattan ValleyManhattan, NY 10027
+T5hjZpEaS4Kn_qL3LBQRNw	2167 Frederick Douglass BlvdHarlemNew York, NY 10026
+T6Nz9WeKnAeihmWEPCk9qQ	560 W 125th StHarlemNew York, NY 10027
+T91XfCQKgvg9KsZnrLexig	535 W 110th StSte 1EManhattan ValleyNew York, NY 10025
+TA8Jj9Gsl6gvNrIP8hpvew	215 N Cayuga StIthaca, NY 14850
+TCuWO-jpbkWBAmDDx19-OQ	195 River StTroy, NY 12180
+THPDeKwowt8XZuUcIgtzjQ	638 Loudon RdLatham, NY 12110
+TIfqOW_bF_5BWMHFbu9BMA	1020 Amsterdam AveManhattan ValleyNew York, NY 10025
+TKZML69z7ZHoppAnclWOlg	647 Watervliet Shaker RdLatham, NY 12110
+TKf-31kB14E7OTVWpJMd7g	215 N Cayuga StIthaca, NY 14850
+TLtbQ98B3u1YTCTNEjgjbw	HarlemManhattan, NY 10027
+TNucCq6cEVQsceGhzWM2Fw	490 Riverside DrMorningside HeightsNew York, NY 10027
+TS1eYydoWdk9HwOUXhAgXg	116th St & Amsterdam AveMorningside HeightsManhattan, NY 10027
+TTMASTY9W47vXaV_U0E_1A	Cemetery AveAlbany, NY 12204
+TVuP5NxTCA9rZipSmAfirw	365 W 125th StHarlemNew York, NY 10027
+TWVMknX042q-61wstLYU2w	Community Corners200 Pleasant Grove RdIthaca, NY 14850
+TWpiHjsd0c9Q9OG9l38SBg	949 Columbus AveManhattan ValleyManhattan, NY 10025
+TZb3l8Za-V_fVlTlX1JYdg	1290 Amsterdam AveHarlemNew York, NY 10027
+TeCLCcjP7SpY24-9IxHJRQ	585 New Loudon RdLatham, NY 12110
+TfUT6TUkgC6LmCqKQuxrTQ	187 Hoosick StTroy, NY 12180
+TukzzR1Ys2zAQ0bZuMGxPw	110 8th StTroy, NY 12180
+TwwaezIakfJLmMvw9ChM_A	3143 BroadwayHarlemNew York, NY 10027
+TxAmfKVkfnXahe_VYtEaGg	318 W 108th stManhattan ValleyManhattan, NY 10025
+U1EXpD3qBDhtTuS7mIkD2A	Columbia University64 Morningside DrMorningside HeightsNew York, NY 10027
+U3RwirEkQUWSc6ir0Y5PeQ	468 Troy Schenectady RdLatham, NY 12110
+U51HmRCmyf62KTj_rVtdcg	Community Corners Center903 Hanshaw RdIthaca, NY 14850
+U7UVERrPVvLJ8HN6TI92DQ	2896 BroadwayMorningside HeightsNew York, NY 10025
+U8gp6gVrWo6_TLGXUC1AiQ	2861 BroadwayMorningside HeightsNew York, NY 10025
+UBpRENBE2Pj7JI06-ikfmQ	500 Thurston AveIthaca, NY 14850
+UC9UDBSDRM8AUp33EeFiXQ	452 BroadwayTroy, NY 12180
+UDu83WODpjGB5yMzz0-h5A	2900 6th AveTroy, NY 12180
+UFXysUpA1VwB8HWhoAisjA	311 3rd StIthaca, NY 14850
+UHZH7s7KmgqHkfqqOO_w7A	192 Main AveWynantskill, NY 12198
+UHznORqgQnoxEVSITglq5g	873 New Loudon Rd Ste 6Latham, NY 12110
+UP4mTMVYgEZFHUxoF--QQQ	2830 BroadwayManhattan ValleyNew York, NY 10025
+UPMjT5GXoaODJYpmqe9Rxw	Willard Straight Hall, 2nd floorCornell UniversityIthaca, NY 14853
+URyanwarERKixLeROpiO6A	1809 5th AveTroy, NY 12180
+UWGlfeD5n8GbASXPBztVIQ	431 W 121st StMorningside HeightsNew York, NY 10027
+UWSVbdWub1ZLzRb9--4-mA	2190 Frederick Douglass BlvdHarlemManhattan, NY 10026
+UZFBK4pU-VcEt1N4IoYCRA	579 Troy Schenectady Rd Ste 202Latham, NY 12110
+U_wLGkq86qyd8yzpKyFswg	1300 15th StTroy, NY 12180
+UbTmZYOHhYAx17R0iZpFMQ	324 Elmira Rd Ste 2Ithaca, NY 14850
+UhBMrhjn8yXOD8XMvo2mtw	E Hill PlzIthaca, NY 14850
+UirP62cfpa2E_dqUgzoKfQ	264 4th StTroy, NY 12180
+Ujmz1mj7mlokaHbIgEwL7g	284 2nd StTroy, NY 12180
+UlRhH4Vhy3qb_PwHxNXAhA	324 Dryden RdIthaca, NY 14850
+Usbvx5wVOqpGPEcgzQEBZg	131 East Green StIthaca, NY 14850
+UxrA93CVJF0YyR_rvPpy8Q	160 Morningside AveHarlemNew York, NY 10027
+V-rY0hlPjAghV14jOlVUiQ	1280 Amsterdam AveHarlemManhattan, NY 10027
+V0VP92qzJCIZNgPWXNdkew	475 Riverside DrMorningside HeightsNew York, NY 10115
+V44yB2G3Oi2KYrveJ0CUEw	327 Malcolm X Blvd Frnt 1HarlemNew York, NY 10027
+VAkdznBlCPQ7KFvm-Kma0g	3157 BroadwayHarlemNew York, NY 10027
+VGjOJiyz0RzTnELUiFr4ow	3 Claremont AveMorningside HeightsNew York, NY 10027
+VIeqbFdw0gm_hwoL_2NXTg	929 19th StWatervliet, NY 12189
+VQmCCmUps9DUS2MA9Su0yQ	2920 BroadwayMorningside HeightsNew York, NY 10027
+VVMds_KcnFjQdbveMUVmbg	2814 BroadwayManhattan ValleyManhattan, NY 10025
+VZNKj35pKzs-fR8_CMPrgA	106 W Green StIthaca, NY 14850
+Vbt0HnL8GDoqJLbjGl7D8w	New Loudon Center873 New Loudon RdLatham, NY 12110
+VcCJHqTFxr181Fp5foHd9A	411 College AveIthaca, NY 14850
+VcuMtj_cGyjaa_O1E2xMIA	608 New Loudon RdLatham, NY 12110
+Vf0-szX1DxTVYhpnJCwr9w	2800 BroadwayManhattan ValleyManhattan, NY 10025
+Vg7CkdJ0uUuOeVPJOsKPsg	401 Elmira Rd Ste 6Ithaca, NY 14850
+VgDMCsFsaw-VOyLii9Yu3A	The Commons CtrIthaca, NY 14850
+VipfYExJjVsD31KnUZqHJg	101 N Aurora StIthaca, NY 14850
+Vo7qe3ixVtZNUSTPY7noLw	Community Corners200 Pleasant Grove RdIthaca, NY 14850
+VrlIP1YgXwvCQlQ1PTExkg	2224 Frederick Douglass Blvd.HarlemNew York, NY 10026
+VtJtF82g1y3w1HoKh5f68w	189 Pleasant Grove RdIthaca, NY 14850
+VtRlnXL818L1jzIeCPtcuQ	314 E State StIthaca, NY 14850
+VyqUTuw80g8sKHYVSsW1GQ	1342 Amsterdam AveHarlemNew York, NY 10027
+W14J-hzcLKkWiAUqOO56BQ	1351 Amsterdam AveHarlemNew York, NY 10027
+W3SE_iqmyavRAB_A52HtBA	475 Riverside DrSte 241Morningside HeightsNew York, NY 10115
+WHMZTg9sHz0AF9Q4bvQa_A	579 Troy Schenectady RdLatham, NY 12110
+WU26m_GsgbDe9ol-ywVsUA	201 23rd StWatervliet, NY 12189
+WXtw9un5lYbAJKCqxHhYbg	2300 N Triphammer RdIthaca, NY 14850
+WXx3gZnrIysGFnpGMCskwg	79 Vandenburgh AveTroy, NY 12180
+WYHeiliITc3RWu31SnWijQ	23 Cinema Dr Ste FIthaca, NY 14850
+W_qugmWCqPjAhqgiDO1rPg	Ithaca, NY 14850
+WcjveH0MyzqQC8lgKviSFQ	973 Columbus AveManhattan ValleyNew York, NY 10025
+WhvnlLZ6Ri57vJvJckd5Fg	HarlemHarlem, NY 10027
+WkleR-aNbZcdimfcqdQ_CA	2296 Frederick Douglass BoulevardHarlemNew York, NY 10027
+WoLPc82ME2S9jcFQdm7ErA	308-310 Stewart Ave.Ithaca, NY 14850
+WwmlHFvtyx3P2lZDNgDBWA	702 Willow AveIthaca, NY 14850
+Wxx427QN8J7J03_T2EugaA	500 S Meadow StIthaca, NY 14850
+WzMfj_aR-N3cLDes0tLW1Q	564 Hoosick StTroy, NY 12180
+X2KeJ4OdlkzTEpCETaaoCw	501 W 125th StHarlemNew York, NY 10027
+X48_-RjsQMLz8pMVU9JEQA	Cascadilla & Fulton StIthaca, NY 14850
+X6TKrhvegGg47GnxPlPYZA	2235 Frederick Douglas BlvdHarlemNew York, NY 10027
+XBuj07BYkcLa3W2kHilKtg	215 E State StIthaca, NY 14850
+XCzjwOmvy_QROtczP8YlCA	965 Amsterdam AveManhattan ValleyNew York, NY 10025
+XH8t78VYyYYZgCw9WKGAZA	602 New Loudon RdLatham, NY 12110
+XHebqygyvhFvedq8RaRmrw	143 E State StIthaca, NY 14850
+XJfCTnV3W9SUkTh_3ddxkQ	321 College AveIthaca, NY 14850
+XSZDmxCJIJ5BVXHwjDR5ag	383 W 125th StHarlemNew York, NY 10027
+XWD1X5COj9HpY4jNb2q9-w	212 25th StWatervliet, NY 12189
+XZFuFuvKgbsY93ZHX7qsWQ	3153 Broadway# 1HarlemNew York, NY 10027
+XeMiuviEjIrL1jOEBlOQfQ	2915 BroadwayMorningside HeightsManhattan, NY 10025
+XimJ342n6UGKDFCnhF_mqQ	1130 Hoosick RdTroy, NY 12180
+Xn4DvdnAF29YOdCt1wcHMw	237 West 107th StreetManhattan ValleyNew York, NY 10025
+XpAATxVkUjGKsg4InY5Kwg	7 Oakwood AveTroy, NY 12180
+XtIiry6wjhNUpaGZj1uQxA	873 New Loudon Rd Ste 1Latham, NY 12110
+XtQj7b9h5iCqiBM1xctsbQ	2833 BroadwayManhattan ValleyNew York, NY 10025
+Y2I946V78wOdwaUD9chmqg	994 Amsterdam AveManhattan ValleyNew York, NY 10025
+Y2JUQN1oF9BZIlItb0NAIQ	1 14th StTroy, NY 12180
+Y5JkvLfBFDxxTKqr5WugFA	2116 Frederick Douglas BlvdHarlemNew York, NY 10026
+YG1FDQ16wAsedUtHHol4mg	HarlemNew York, NY 10027
+YKAwpTnKO-n5vB9-pqaCLQ	968 Amsterdam AveManhattan ValleyNew York, NY 10025
+YMKlWdA38sEPF1KSNOpYcA	509 Esty StIthaca, NY 14850
+YMctRn-xL8yedEXE1gwEZw	80 Vandenburg AveTroy, NY 12180
+YNgBR2pGWmMZAYFQbByODA	283 W 118th StreetHarlemNew York, NY 10026
+YRfDdBgWS4T80oJfKmVThA	2217-23 Frederick Douglas BlvdHarlemNew York, NY 10026
+YRjZNZE_TOgjFja5bE02hA	143 Troy-Schenectady RdWatervliet, NY 12189
+YSgPH3iTfSgOM3C7ZxDLLA	250 W 108th StManhattan ValleyNew York, NY 10025
+YVDfVKznxZpDDkk_Lor-1w	4 4th StTroy, NY 12180
+YWEBg4mYZrpQ1vKjcVoVvw	Troy Farmers Market49 4th StTroy, NY 12180
+Y_8ZwQYDznZX1-rs_wm6RQ	995 Amsterdam AveManhattan ValleyNew York, NY 10025
+YgGbeBYxOSmRi6CFn04MoQ	1215 Amsterdam AveMorningside HeightsNew York, NY 10027
+YhV_UvOd0iHvmU4tefFLFQ	340 Elmira RdIthaca, NY 14850
+Yi6PBCMivXha8AkKb6wnsw	1221 Amsterdam AveMorningside HeightsNew York, NY 10027
+Yjm7Lw8_PLPBRwDlaCHvsQ	24 Main AveWynantskill, NY 12198
+YnY1g6N0hZHKMSKNv7kngQ	PO Box 3607HarlemNew York, NY 10027
+YozJ8FCKDT98XRq16XkpWg	273 Troy Schenectady RdLatham, NY 12110
+Z113DscN6JTLTvVXNkYJSg	2766 BroadwayManhattan ValleyNew York, NY 10025
+Z18kU54sQwFi_px-PpdvIQ	3041 BroadwayMorningside HeightsNew York, NY 10027
+Z5JVHHv1SB0uQYzkKsT_qQ	109 S Cayuga StIthaca, NY 14850
+ZDzv8zgv9_fqbUEbmHpThA	1005 Columbus AvenueManhattan ValleyNew York, NY 10025
+ZHG5k1PBawdJ-DYMoFaMcg	101 W State StIthaca, NY 14850
+ZKKRhDiNECZKtdu9CSFz6w	3153 BroadwayHarlemManhattan, NY 10027
+ZOu3ShdJO3Nl8WX3P5K5kg	435 Franklin StIthaca, NY 14850
+ZR0qOdwUw1QLY7qP-DkdFQ	Cornell UniversityIthaca, NY 14853
+Zb22gjD3m_MwFRB6Ay-QOw	208 Dryden Rd Ste 2Ithaca, NY 14850
+ZcTI78WOKE-iLAzAGccOvA	256 W 116th StHarlemNew York, NY 10026
+Zgf2Thpp7LeYE_Bg0QDzDg	2888 BroadwayMorningside HeightsNew York, NY 10025
+Zgy7PVCreq2AnFnY3bVgUw	744 S Meadow StIthaca, NY 14850
+ZiLCt6uZlGY61roYdfeqWA	949 Columbus AveManhattan ValleyNew York, NY 10025
+Zkt0F1YoG2l3o-Ko_UbCbw	721 River StTroy, NY 12180
+ZnP2lsICCnZeaNi5Zv4QYQ	79 Campbell AveTroy, NY 12180
+Ztpv2dSPqCwR9tyjXBlovg	304 W 115th StHarlemManhattan, NY 10026
+Zv3yiBIGLqdQVaukAOttSg	Ithaca Shopping PlazaRte 13 SIthaca, NY 14853
+ZxDrqC_OeZMISQ9ZwiA8UQ	Cornell CampusWest Bailey PlazaIthaca, NY 14853
+ZyT-Dzt5xzyYWwd2hhdGRQ	63 3rd StreetTroy, NY 12180
+_1ocatc2jqyIgizF7FWr0Q	470 N Greenbush RdRensselaer, NY 12144
+_21B4W3qjnl8lcxDYJE3kw	85 4th StTroy, NY 12180
+_3pQcGjFzacx7Zow4TZWwQ	1012 Amsterdam AveManhattan ValleyNew York, NY 10025
+_5BoZ_C5zEl5M_MxT1W39w	2799 Broadway 108th StManhattan ValleyNew York, NY 10025
+_92nnH142g7zWfLxW1rGjQ	605 W State StIthaca, NY 14850
+_DPEAIvsH92phbwh2W-ADA	2937 BroadwayMorningside HeightsManhattan, NY 10025
+_Dc5E16rCL16j2xsUHw18Q	998 Amsterdam AveManhattan ValleyNew York, NY 10025
+_I_zkF7gWl9xm5KmHrWBMg	377 River StTroy, NY 12180
+_M7mLNPK6xS805OYFgfaEQ	326 5th AveTroy, NY 12182
+_PTBwH_h3A9ciDUYzgzSuA	126 S Cayuga StIthaca, NY 14850
+_WdURV4xyLBLScgIVxwrrg	202 E Falls StIthaca, NY 14850
+_bB_OP2pktiJ2R58MzZR0w	200 W 106th StManhattan ValleyNew York, NY 10025
+_ckbnVhwrD3vEowWVN8SnQ	119 S Cayuga St Ste 301Ithaca, NY 14850
+_eDNXSw7pGbI6VkgsePuqA	405 Fulton StTroy, NY 12180
+_hmURvTcQ9qEjB_BjOR5mA	428 W State StIthaca, NY 14850
+_lJnqlFlAQ9usssJ0oYAJQ	514 Edgewood PlIthaca, NY 14850
+_ml4baOfxBFt8Gynh_nC5Q	461 BroadwayTroy, NY 12180
+_nC2ytNxfhOoyJydlJVtlw	241 Hoosick StTroy, NY 12180
+_qGDRfTvIwUqFtI1mGI8Rg	1152 Danby RdIthaca, NY 14850
+_r0Smq2oJAU4PYdsczk7XA	Troy, NY 12180
+_sUFonJ7J_-a6hq3xRYwDA	120 Hoosick St # 11Troy, NY 12180
+_vLyjI50m3eafiXnh87i0g	702 Willow AveIthaca, NY 14850
+_vbqpuS7m2tODS_r2S5wDw	983 Columbus AveManhattan ValleyNew York, NY 10025
+_xesGWYqL2BqtQaYTULvOQ	2163 Frederick Douglass BlvdHarlemNew York, NY 10026
+_yHIlwnpDGUyo2qyjtbsHA	615 Pawling AveTroy, NY 12180
+a-3DWmBxkomDFNFhFuV_Ig	105 S Fulton StIthaca, NY 14850
+a6Ycd8Wb5eoXZCP7U01RpA	170 Cecil Malone DrIthaca, NY 14850
+aEeSQaZ1mFinIhgf56rRVA	933 Dryden RdIthaca, NY 14850
+aGze3Zk4E7-JkpSDrRi2ig	123 4th StTroy, NY 12180
+aLE4Lg5uOGnewTTweXJNBw	449 N Greenbush RdRensselaer, NY 12144
+aR1ehxdck0Qd0jLmtzQ26w	409 River StTroy, NY 12180
+aVBHU_OAEau7sdk73EpNwA	355 W 116th StHarlemNew York, NY 10026
+aZzq3M2xwbNHNSQe2AbAOA	964 Amsterdam AveManhattan ValleyNew York, NY 10025
+a_A8RcUn4-aNJJwN1-TXIw	302 W Green StIthaca, NY 14850
+acwj5shqN35q1Yy_6KrT7g	831 New Loudon RdLatham, NY 12110
+ahZmjfQNe5-wJ6oGZJOaRw	97 4th StTroy, NY 12180
+ahr0chRA-xpmq2xV_gnb3w	1268 Amsterdam AveMorningside HeightsNew York, NY 10027
+aj4TkRepVpCV1DYAh9OF9Q	1285 Dryden RdIthaca, NY 14850
+aoGjCDs2-_-pejJmv4Ss7Q	600 3rd AveWatervliet, NY 12189
+apFgbd8HNV08czcV2QZP9w	130 Cherry StIthaca, NY 14850
+apIscoJhs_Z0hfdiVLZSwQ	602 New Loudon RdLatham, NY 12110
+apmH1DwYMWrulOQN5fz4OA	1613 BroadwayWatervliet, NY 12189
+as78VzatRI6dtQ2UOAu_vg	515 Loudon RdLoudonville, NY 12211
+ath00Xa4Wv20sFPzIzPfgQ	206 E State StIthaca, NY 14850
+b2YuexxzaKX7299OrgLvMA	3 Oakland AveMenands, NY 12204
+b2d8CP6sKQotFjzZX0Thtw	2076 8th AveHarlemNew York, NY 10026
+bEec28P1CziowM9LrNkNsg	301 W 110th StHarlemNew York, NY 10025
+bGN1FdWmcFi0hlmr1djSIg	106th St and West End AveManhattan ValleyNew York, NY 10025
+bGsO9CWn6JEIBpxuL-qRow	2215 Burdett AveTroy, NY 12180
+bJq1rng5jfo3GlGRNa30Zw	222 Elmira RdIthaca, NY 14850
+bKXyytVuPm8LYutAalf8AQ	2074 Frederick Douglass BHarlemNew York, NY 10026
+bKyng2jcrIrxryyAZwgglA	638 Columbia StLatham, NY 12110
+bLdLMuRRXPNAOhyGrLPXUw	450 3rd AveWatervliet, NY 12189
+bM6O3pWBCIjsxrcnzTbLWw	113 E State StIthaca, NY 14850
+bP_rGkKX65QhiFWEIOR5gQ	Triphammer Shopping CenterIthaca, NY 14850
+bRVGmeqyx6VC5BfSGqcmPA	Karrot304 W 117th StHarlemNew York, NY 10026
+bSs6PgwqIa7QeimK7gokOQ	309 E Lincoln StIthaca, NY 14850
+bTR30J2iu8svWNQsNHHWSA	402 3rd StIthaca, NY 14850
+bTka4gr34jsqsn2fhYKU1Q	100 BroadwayAlbany, NY 12204
+bWasMbk9JZLQLQf_EUr2Sg	1207 Amsterdam AveMorningside HeightsNew York, NY 10027
+bdNTZyrd0-GT5vZ6uOhXsA	890 Hoosick RdTroy, NY 12180
+beGJA4u0NR4ErRkIj2oCqA	2805 BroadwayManhattan ValleyNew York, NY 10025
+bf-6Bh9gM6gEJHr4tdd7iA	635 W State StIthaca, NY 14850
+bi0dOVHmmoqE9h4mDGWpMg	2868 BroadwayMorningside HeightsNew York, NY 10025
+biNk2izKRsujpMUT-0WKLg	429 River StTroy, NY 12180
+biWM7tIsCTFconxcVfuE6A	115 East State StreetIthaca, NY 14853
+bjv2bf_kX1cNl-2OPm4Jig	618 Saratoga StCohoes, NY 12047
+bkOPlqAhWUA4w96nHHXL4w	490 Riverside DrMorningside HeightsNew York, NY 10027
+by-1gi7evrPKSUmeaN1sXw	964 Amsterdam AveManhattan ValleyNew York, NY 10025
+c2rs0ig1YXFS3D9cQWshoA	319 Taughannock BlvdIthaca, NY 14850
+c3AMAv08iFfnRSGmqFy4rQ	579 Troy Schenectady Rd Ste 219Latham, NY 12110
+c5xLmH0GwmdNIvaqUqBLKQ	120 3rd StIthaca, NY 14850
+cL1nURym0sjqCnoaEXG0yw	463 Troy Schenectady RoadLatham, NY 12110
+cLAOudmDmfsOCc3h1frWAA	301 W 110th StHarlemNew York, NY 10026
+cNo8L9-fWiy8C34TIbijzg	80 Vandenburgh AveTroy, NY 12180
+cPW3jc2tP6k7JehVopI89g	988 Amsterdam Ave109th StManhattan ValleyNew York, NY 10025
+cRmH4JEhYMQ_AkZlYoSoHA	105 Enfield Falls RdIthaca, NY 14850
+cRyZA1k3nvqj_0s_kr7HGA	2787 BroadwayManhattan ValleyNew York, NY 10025
+cTPtgGWk27HwLm8bvBt-Ww	HarlemManhattan, NY 10027
+cVDDun_EfmgJTTSmbPQ8dw	282 River StTroy, NY 12180
+cVIXO9rRiK8qf03YzXLimg	220 Hoosick StTroy, NY 12180
+c_yxtSZNaxXAekgAPNW0Cg	Ithaca, NY
+cce_gDHwpVbMEzMfMlxnFQ	995 Columbus AveManhattan ValleyNew York, NY 10025
+cd1dMvYDA_Xj1eH65AFsDg	1551 Slaterville RdIthaca, NY 14850
+cf4ygT87Krgbo9cXvSikVA	3060 BroadwayMorningside HeightsNew York, NY 10027
+cmMNvAVcs6R_dzE8GEIYgQ	600 Fulton StTroy, NY 12180
+cnMZ-Y0qWS-vwDj3u7sCQQ	330 College AveIthaca, NY 14850
+cnSXX4gGaEGy75BElLiSDw	33 2nd StTroy, NY 12180
+cocdGBNpyncd4sIy9lWasQ	299 Ontario StCohoes, NY 12047
+cooPp3UrOzYCUGYFgGNikg	235 W 107th StManhattan ValleyManhattan, NY 10025
+crmTNTib990VtFfvhnlSkw	672 New Loudon RdLatham, NY 12110
+cu5oiIleLVa5eXH6X27KMw	940 Amsterdam AveManhattan ValleyNew York, NY 10025
+czAJCWuK1nCjjfbPYATg5Q	855 Hoosick RdTroy, NY 12180
+cz_r-WQccU3Aoht805qOQA	130 Remsen StCohoes, NY 12047
+d2N1_XZCvjVVgIKtlNOlJw	215 E State StIthaca, NY 14850
+dCaZ_SWhaZ0FPLFmnwrI1Q	214 The CommonsIthaca, NY 14853
+dFfQWqHyH_lqCpFhNgAhlQ	114 Dryden RdIthaca, NY 14850
+dIBQNOxrRQ1r9Sct9Rx3HQ	133 E State StIthaca, NY 14850
+dI_hCzS0NLcPZdSGLTBcTg	470 N Greenbush RdRensselaer, NY 12144
+dOVacg7B0D-QwZ2lv8X4Gw	400 McChesney Ave ExtTroy, NY 12180
+dRfRGXKqZwWNQtQqb5eVlg	712 W Court StIthaca, NY 14850
+dS82r998PaNewbg02DREpQ	113 S Cayuga StIthaca, NY 14850
+dUPFQ2eGe1pk6eLnIqCbTw	235 N Greenbush RdTroy, NY 12180
+dVE7UAc0vtEk-V4fHfJUFg	3111 BroadwayHarlemNew York, NY 10027
+dWeGjqmrjfgfTRl-zejY_g	125th StreetHarlemNew York, NY 10027
+dXO0TAdU8RCDw54r2MQLrA	2876 BroadwayMorningside HeightsNew York, NY 10025
+d_whQLSvdo4vASV1779lgQ	147 Dryden RdIthaca, NY 14850
+deMySa63_mE3Jy2lWMU1Dg	401 N Greenbush RdRensselaer, NY 12144
+deiC4MxpjlCsSCnW6czpTw	1070 Danby RdIthaca, NY 14850
+dfOjsr-Pv85qK3zs32zchg	15 Catherwood DrLansing, NY 14850
+dfdW_lcOHsTZgtnHScRgoQ	W 122nd Street & Riverside DrMorningside HeightsNew York, NY 10024
+dkGTj5FVVqN4DbR7uWi8rw	128 E State StIthaca, NY 14850
+dl4hwV8HGfgGcDTzoxIsng	2235 Frederick Douglass BlvdHarlemHarlem, NY 10027
+dl6eJ6sowYvlVaHPv1zvWQ	222 S Fulton StIthaca, NY 14850
+dmQPW4RWatZb-CvIp2WLoQ	953 Columbus AveManhattan ValleyNew York, NY 10025
+dpqv-Gy6RLXXGnNrGZjOYw	840 Hanshaw Rd Ste 2Ithaca, NY 14850
+dpwBwaqTxF631JTtppK5Yg	40 Lincoln AveWatervliet, NY 12189
+dspu8bCnuCZ4789nkt9mog	35 Saratoga Ave Ste AWaterford, NY 12188
+dtesrJjWXSIecOchzOcrfQ	203 N Aurora StIthaca, NY 14850
+dz1qvyImYe6lG-UEU0VkTQ	1018 Amsterdam AveManhattan ValleyNew York City, NY 10025
+e389xSW5CZWOAVU6qbFZqw	571 Watervliet Shaker RdLatham, NY 12110
+eAZ6O8mY7_iH5i6njXVWnA	205 S Meadow StIthaca, NY 14850
+eCAOhaI3cKSIQUvDWd6MGQ	975 Columbus AveManhattan ValleyNew York, NY 10025
+eJgMb8gAq-qYAIAx7ni3pw	2752 BroadwayManhattan ValleyNew York, NY 10025
+eL8No1m3U304Y3Cr_wsAxA	120 E Green StIthaca, NY 14850
+eLQ2YiRiZQMHNPfVh0XJiw	108 E Green StIthaca, NY 14850
+eMcSrCTTOIeFpQVeHPN1bQ	132 Claremont AveHarlemNew York, NY 10027
+eOqXigYmWoIRxwnCfLFDyA	2805 BroadwayManhattan ValleyNew York, NY 10025
+ePyqCi-WHs-CygYTc8W7NQ	194 Manhattan AveManhattan ValleyNew York, NY 10025
+eUVb_-vfK2MMQzz5915a6g	2803 BroadwayManhattan ValleyNew York, NY 10025
+eVZGBIWAmQxiTwVYA0pjWA	946 Columbus AveManhattan ValleyNew York, NY 10025
+eWP6gYoRXRSCw_KumqTgRw	1150 Danby RdIthaca, NY 14850
+eZpvDXvqwmxmiMqbxOPqMw	719 2nd AveTroy, NY 12182
+eZwpGce3VhhCkdczTUQO1g	2876 BroadwayMorningside HeightsNew York, NY 10025
+ea-mEiayZlCEezO6DCtiGg	425 W 125th St FrntHarlemNew York, NY 10027
+ea3P6cp6T5-_GiToKF-kgw	285 River StTroy, NY 12180
+ebOCmEV2-Px4waW5riGrBA	111 E State StIthaca, NY 14850
+ejHduGcJr28ehsdSXaiZXw	113 N Aurora StIthaca, NY 14850
+ejX1rf3zkY76GthoSjgYxA	536 W 112th StMorningside HeightsNew York, NY 10025
+esLb_xHNGCzKbxUiEsaT3w	2821 BroadwayManhattan ValleyNew York, NY 10025
+etnsoP9A55sKckLtC1MMLA	590 New Loudon RdLatham, NY 12110
+evxUVNVZukBvpoP4GR--Fg	11 E 125th StHarlemNew York, NY 10027
+ew8SImJlTiqpne31F2nRAA	130 E Seneca St.Ithaca, NY 14850
+eyEcgcRl1js31hcKYI84tw	603 W 115th StreetMorningside HeightsNew York, NY 10025
+ezgJKW02TGymRkmLb8zzwQ	256 W 109th StManhattan ValleyNew York, NY 10025
+f0NbIT50Kqqfh9b7T2Zo5Q	18 Sargent StCohoes, NY 12047
+f4BC0xFGCyzy-cFnAEJdXw	999 Columbus AveManhattan ValleyNew York, NY 10025
+fALLUHAplULJFSCp2z9yxQ	411 W 113Morningside HeightsNew York, NY 10025
+fBjKMmdBNzpI8mXov1YXeA	184-190 Remsen StCohoes, NY 12047
+fEzgfxIbWXJYo9ttAYfjPQ	West 120th Streetb/w B'way and Amsterdam, nearest to 530 W. 120thb/w B'way and Amsterdam, nearest to 530 W. 120thHarlemNew York, NY
+fFsEJQB2HhpfXV48ioxzXw	2104 Frederick Douglass BlvdHarlemNew York, NY 10026
+fG7y_F4iKuwMLdpNtMAlDQ	402 W State StIthaca, NY 14850
+fKf3nZKgXBnQtoJWIdAWmA	369 Troy Schenectady RdLatham, NY 12110
+fSFb98pIz-FQochhvsKioA	305 Stewart AveIthaca, NY 14850
+fTmcFgYB77wZdQrv-nP0Pg	138 W State StIthaca, NY 14850
+fYzetiAGpfr0zU4CYnyeBQ	769 Pawling AveTroy, NY 12180
+f_cHTdC_3R9WvcZCayTyYA	449 N Greenbush RdTroy, NY 12180
+faP7QJNHKiuVDwhXgr534A	184 River StTroy, NY 12180
+fco4qToL2DhnVamv0yaW4w	2920 BroadwayMorningside HeightsNew York, NY 10027
+ffp58kYSK7dJGs5ER-5txw	1260 Amsterdam AveMorningside HeightsNew York, NY 10027
+fkRke4pb7F3DPCrL5yjRJQ	238 W 116th StHarlemNew York, NY 10026
+fpLDYV0GdGEgu-CNeGUIIw	Alfred Lerner Hall2920 Broadway, 4th FlMorningside HeightsNew York, NY 10027
+fqFre6p7U0VOnrjl8Y1BuQ	1028 Amsterdam AveMorningside HeightsManhattan, NY 10025
+froxnvO6lVnzrTBS4p_W_g	2847 BroadwayMorningside HeightsNew York, NY 10025
+fw-4NM4veq19Hz9GZXwkcw	49 Broad StWaterford, NY 12188
+g0ErZE4Hd_-av-U93h9BSA	2255 N. Triphammer RoadIthaca, NY 14850
+g8vu1G_fZLrPpGf2UHk6-Q	990 Columbus AveManhattan ValleyNew York, NY 10025
+gB4vpRo21JewareYUFMQcA	622 Watervliet Shaker RdLatham, NY 12110
+gHcUKbGwdLXiWqbqE8BILw	217 Hoosick StTroy, NY 12180
+gHmiLqpuU3nnRgK7vGnVTw	518 W 125th StHarlemNew York, NY 10027
+gNLgH9yqB2iSjacFpa69jA	4 Northern DrTroy, NY 12182
+gRiYNQeRRCQeHXHBp5m7PQ	288 River StTroy, NY 12180
+gVQ7REHc3KTjROrI8LPhNQ	228 4th StTroy, NY 12180
+gYdx3POVviEoVSFXgIYElg	449 N Greenbush RdRensselaer, NY 12144
+gbE5C_xpME2xy1QKmhOaJQ	970 Amsterdam Avebetween 107th & 108thManhattan ValleyManhattan, NY 10025
+gczVvjEUj89Mjynt4S-ICw	550 Troy Schenectady RdLatham, NY 12110
+geTFpY84Tp-nVTXflnxtDA	1024 Amsterdam AveMorningside HeightsNew York, NY 10025
+gekPL0Kc7w9zLDT3EulvxQ	700 Hoosick RdTroy, NY 12180
+gfiyx9hfH9WMi3miCyqWWw	683 New Loudon RdLatham, NY 12110
+gm9YBzKqckTX-3U6jNpQPw	3155 BroadwayHarlemNew York, NY 10027
+gmZGeYqlPR6dBwdBZ0K4Bg	1344 Amsterdam AveHarlemNew York, NY 10027
+gtVk7m6eldEfsJFD9LHRUg	2867 BroadwayMorningside HeightsNew York, NY 10025
+h37hllqEt6v9HGqzdiupow	953 Columbus AveManhattan ValleyNew York, NY 10025
+h7SQEJRBX09Mjc_07crTpA	319 W 107th StManhattan ValleyNew York, NY 10025
+hD55NUiGDK7STQ8oy9QDPA	2885 BroadwayMorningside HeightsNew York, NY 10025
+hHg8ADXX-0z0-oHGySXNFg	606 W 115th StMorningside HeightsNew York, NY 10025
+hKxb9hKV6yb8K12Y7ccGMw	503 N Meadow StIthaca, NY 14850
+hMoHbopFIgmUJe-w-_jUXg	520 Congress StTroy, NY 12180
+hNKYyGv-wlB_WTiSX1sKcQ	55 Congress StTroy, NY 12180
+hRoW3haGNLv3W_EhNja0lQ	603 W 115th StSte 226Morningside HeightsNew York, NY 10025
+hU8GZj1gwKK--HZCl8ilCg	1252 Amsterdam AveMorningside HeightsNew York, NY 10027
+hYLmZXLQP2xOSaopGVzyKw	833 Old Loudon RdLatham, NY 12110
+hbuuJi-Vsqa5TibYIRolhA	920 N Cayuga StIthaca, NY 14850
+hcCzheOtF423xlqTLQM1BQ	Tops Plaza722 S Meadow StIthaca, NY 14850
+hccJ4i20bl0v5AgP6x7A7g	786 Pawling AveTroy, NY 12180
+hdV5ZSDO1otDVMLJoTXrfQ	97 N Greenbush RdTroy, NY 12180
+hhjYGhB_Le97qh6rFynOQw	636 Loudon Rd.Latham, NY 12110
+hhjiOiS8dN4xnsBTkksIOw	2884 BroadwayMorningside HeightsNew York, NY 10025
+hlkCbViTRlQ5-lx8gopeoA	1225 Amsterdam AveMorningside HeightsNew York, NY 10027
+hluBhGYt7BOKhCP4M0qDDQ	235 N Greenbush RdNorth Greenbush, NY 12198
+hmoP5rFZ4eqiOxSR7WlI_w	461 W 125th StHarlemNew York, NY 10027
+hq0JqkDPLwt1dPetWJDj5A	465 W 125th StHarlemNew York, NY 10027
+hs1VzgstqPJDpBeIXwMxlQ	107 N Aurora StIthaca, NY 14850
+hvN_aHs97trEN9JyasentQ	2752 BroadwayManhattan ValleyNew York, NY 10025
+hzekNMhUDUlVGLH1fauB9A	640 New Loudon RdSte 5Latham, NY 12110
+i42mnnrM0FtvWjpBiHX10A	323 Elmira RdIthaca, NY 14850
+i8Q6jFqoecCGmJkH-3IyZg	2333 N Triphammer RdSte 403Ithaca, NY 14850
+iAHDd35F8-WWx9kEEMPygA	2878 BroadwayMorningside HeightsNew York, NY 10025
+iFe05w4Qs6NKMgRhEkj8AA	380 N Greenbush RdTroy, NY 12180
+iJzwK3qLFulaK4MNVMrdDw	2980 BroadwayMorningside HeightsNew York, NY 10027
+iMFPQiNWLRkWZkxeQU8Xjg	102 E State StIthaca, NY 14850
+iNIyHDnU5fz60orxlvrQKQ	445 Hoosick StTroy, NY 12180
+iOYrrlk8yOelEaXDsbJIVQ	586 New Loudon RdAlbany, NY 12110
+iQJ54YzzImrYF-4WXhS6gA	222 South Cayuga StreetIthaca, NY 14850
+iStzlZvi1vwCPU1BOtr6-w	708 W Buffalo StIthaca, NY 14850
+iYmj-4fF1FY_HncGS3xl7w	400 S Meadow StIthaca, NY 14850
+ibrFPOvc3SNR28R2xQujIg	670 Pawling AveTroy, NY 12180
+idS77AY5G-g6q-f0UGNltA	722 S Meadow StIthaca, NY 14850
+iiT9quS6_oyEO5vrNCt-6g	2790 BroadwayManhattan ValleyNew York, NY 10025
+il4v9CfJmDtjdPfjZFKGMQ	475 5th Ave Ste 1Troy, NY 12182
+imkMH4_aKRQeMQkKn7zxBA	Broadway at 115th StMorningside HeightsNew York, NY 10027
+iqksS4ninxb8eScSqDp0xg	9 Johnson RdLatham, NY 12110
+iwn6dOQTqwP1EUot9DrRYA	430 N Cayuga StIthaca, NY 14853
+j-0PFDm86n7PeK-QSs18mA	403 College AveIthaca, NY 14850
+jDhNPKNJ5N2W2kEvgpBPCg	Cayuga Mall2309 N Triphammer RdIthaca, NY 14850
+jEm2bOtR6oyDOdAuOhOEaQ	174 Main AveWynantskill, NY 12198
+jIn1YeBAxu--sf6JgV0Htw	137 E State StSte 139Ithaca, NY 14850
+jIoHLOlgnJeMvw5pemNoAg	400 Fulton StTroy, NY 12180
+jRdNilj5s850EVGUXvR4vg	40 Catherwood RdSte 2Ithaca, NY 14850
+jTE19UzZQNSXdgyqZNBJGA	720 S Meadow StIthaca, NY 14850
+jTsRHPjhy07ZQC6Z8Yj-gw	613 New Loudon RdLatham, NY 12110
+jUtDZZNdZtfNGxnNkQJ_Yw	250 BroadwayTroy, NY 12180
+jWU6H2RVbLPmbML1cuYnDQ	Ithaca, NY
+jY5QY9HldIQEdTTaexGIYg	329 S Geneva StIthaca, NY 14850
+j_fj6YY5hBe5YW1ucRQrsw	200 Troy Schenectady RdLatham, NY 12110
+jh_owKpd10vqcKnrGGuDBw	198 1st StTroy, NY 12180
+jniAYYUXDPxhQlwzGBmjAQ	579 Troy Schenectady RdSte 80Latham, NY 12110
+jo9WMTYOvoW_6WyM2flTOQ	435 Loudon Rd Ste 7Albany, NY 12211
+johcyYjak9dA8YLftHOC3w	704 W Buffalo StIthaca, NY 14850
+jpsucUfLz7gEj9jU8Fv4Dg	One Fourth StTroy, NY 12180
+juuN71EcoKNZ-tFSzYE9mQ	2600 7th AveWatervliet, NY 12189
+jznPYUcl1Xd7uS71uXIOCw	806 25th StWatervliet, NY 12189
+k0xJyN_1k_dxSKaFNYrZvg	77 3rd StTroy, NY 12180
+k8uOWXuHiiy7L4UMI_Nc7Q	60 Vandenburgh AveTroy, NY 12180
+k9UObyytIt6xmo-vzdpPdg	202 E Falls StIthaca, NY 14850
+kFmoKpQ8MNF0TrFdG1NSsA	555 Troy Schenectady RdLatham, NY 12110
+kHiaMAC5wQF083hHgyzJQg	1201 N Tioga StIthaca, NY 14850
+kPRhhVfGK_rIQFG6iAWBdA	539 Pawling AveTroy, NY 12180
+kPrtQoij3ec8wmRMmQ_3mQ	2905 BroadwayMorningside HeightsNew York, NY 10025
+kRGusS1bQCB5XIm0bhCkug	350 Troy Schenectady RdLatham, NY 12110
+kSAeXkiPDNzSnFFDxqjgvg	209 Dryden RdIthaca, NY 14850
+kTSejIjmKGsK1Erwdser4g	3070 BroadwayMorningside HeightsManhattan, NY 10027
+kXdh23ZRCrwpQyMT_Ok09w	158 4th StTroy, NY 12180
+kXp3QPpxsMO7G05d_7JFNQ	2276 Frederick Douglass BlvdHarlemNew York, NY 10027
+kZhzc_qD2mUU_bFbcs58Dw	254 BroadwayTroy, NY 12180
+k_29K9WijS55n5qlqiNxYQ	Tower Rd255 Stocking HallIthaca, NY 14853
+kg8_LyP0TvxkcTxP8d0riw	2288 Fredrick Douglass BlvdHarlemNew York, NY 10027
+khYxvvCKRiR-wqMSbFzFmg	1231 Amsterdam AveMorningside HeightsNew York, NY 10027
+krqcsL-PVY6m5yh1iqOHyw	1 Niver StCohoes, NY 12047
+l0FD37oR2EsxtW-pRgm68A	West 124th StBetween 7th & LenoxHarlemNew York, NY 10027
+l21ahNDUPFrMdKxTJ1yOoA	415 Fulton StTroy, NY 12180
+l2sEA8T4kPgJOicXqI8KXA	111 Congress StTroy, NY 12180
+l4e45tJqxA-mbjPXFaMi8g	527 Manhattan AveSte 7AHarlemNew York, NY 10027
+l6fDQXHRDYX5NAWKUH7-oA	594 New Loudon RdLatham, NY 12110
+l9OMQ7JKxM5ues3nKEGwcg	2950 BroadwayColumbia University, School of JournalismMorningside HeightsManhattan, NY 10027
+lB76mdTLWgn_almMDps4Eg	2116 Frederick Douglass BlvdHarlemManhattan, NY 10026
+lBmZEdCnCknECknxMg-2rQ	113 W State StIthaca, NY 14850
+lHozwGwIjXpp7VWwaDw2XA	2825 BroadwayManhattan ValleyNew York, NY 10025
+lK22GyWM6Z3dmIlRRAv-KA	2828 BroadwayManhattan ValleyManhattan, NY 10025
+lLjt_HR2QDKBoXsOYDa52g	84 Congress StTroy, NY 12180
+lPnhmvKwU9Sl95G6gEsnkA	550 W 120th StreetMorningside HeightsNew York, NY 10027
+lQENQYvnL7JOpvfMogDA_Q	949 Amsterdam AveManhattan ValleyNew York, NY 10025
+lSMszPzc-YIvsYuLvY_m2g	549 Troy Schenectady RdLatham, NY 12110
+lXSDZjhOJDuXVISTTBTNqg	490 Riverside DriveMorningside HeightsNew York, NY 10027
+lciO4GYuQUrvNNAI-5PiMw	103 Saratoga StCohoes, NY 12047
+ldun0FoXSqeerNv0V-49Zg	2826 N Triphammer RdIthaca, NY 14850
+lf-IOFxXRfbSKSVvPU3nIQ	578 New Loudon RdLatham, NY 12110
+lncA9vgtds17wx47oyATQA	La Tourelle Resort1150 Danby RdIthaca, NY 14850
+lpE4ayYybUrRFnXb3OejWg	727 New Loudon RdLatham, NY 12110
+lpQSW9Rh3tc5JMPsu04_4A	110th to 123rd StManhattan Ave to Morningside DrHarlemNew York, NY 10027
+ludH0Z31B4xmo_894DzB8w	2311 2nd AveWatervliet, NY 12189
+lujEt948SWY9tHACaPHFUQ	199 4th StTroy, NY 12180
+lxHFVi4iZZRuNtbVW-ysQQ	257 W 116th StHarlemNew York, NY 10026
+lxcpALnq2RRWDKBVpztUMA	206A Dryden RdIthaca, NY 14850
+lz5nqlBp80xVfxc7QJKkfQ	75 Vandenburgh AveTroy, NY 12180
+lzdwIQbxgIePMoalQvyhew	284 River StTroy, NY 12180
+m1zppUNGsGFz6BfWzBF_2Q	216 E State StIthaca, NY 14850
+m4rV34xa02aRrv_EXlDuWQ	1004 Hoosick RdTroy, NY 12180
+m9JdmbCDsJcrzQ2jEIDKZQ	742 S Meadow StIthaca, NY 14850
+mBr6BUNc6rEUcp9BJcJMCg	301 Cathedral PkwyManhattan ValleyNew York, NY 10026
+mCRGZYvy84YRtiyOXgUGIQ	740 S Meadow StIthaca, NY 14850
+mG1BCARvE0FA6-IszNpZ1Q	898 2nd AveTroy, NY 12182
+mHaOblypEe9Zoci8Hee62w	106 W State St2nd FloorIthaca, NY 14850
+mOJ7tEhqFBbHCm1FfSkU4g	1310 Amsterdam AveHarlemNew York, NY 10027
+mQE2m_IKbzmr24-BE4wqjA	469 5th AveTroy, NY 12182
+mRYUtSCnQ2IaGKIISWPRZg	770 Hoosick RdTroy, NY 12180
+mVXrw84pBx6CWoBEoKLIHw	1083 Dryden RdIthaca, NY 14850
+mWVR2IJMLHkL_eYJLgO0ew	895 New Loudon RdLatham, NY 12110
+mYbi989togPtbXvWS4Nb4A	525 W 120th StColumbia University LibraryMorningside HeightsNew York, NY 10027
+mfDkSweR9UTSdv0E0IpJdA	704 West Buffalo St.Ithaca, NY 14850
+mfzboF9DeMgIadJpFVL4kA	40 Catherwood Rd.The Shops At Ithaca MallIthaca, NY 14850
+mlXtGO4O8rMJYLShcegCRg	873 New Loudon RdLatham, NY 12110
+mloTr0nez9YBSqv-WPw7Kg	2920 BroadwayGround FloorHarlemNew York, NY 10027
+mqccXvBQsRFgB3YsgIWl5A	3161 BroadwayHarlemNew York, NY 10027
+mr2Tcm384o_BdHMgxOrkaQ	370 Elmira RoadIthaca, NY 14850
+mtcQaABZsZ3VQaGnpwPIeQ	310 Stewart AveIthaca, NY 14850
+mu1jUnAsRpJ60JnZwUTQAg	108 N Aurora StIthaca, NY 14850
+muJnDitugFx6y64QVgllig	61 Main AveWynantskill, NY 12198
+my7v86pKIuAxDSQzcYVHZw	130 Malcolm X Boulevard Apt 604HarlemNew York, NY 10026
+myrsfjtHnWFlLBEWE7MtZg	595 New Loudon RdLatham, NY 12110
+n0i3N8zrrgzDtEx7zNPCsA	115 2nd AveTroy, NY 12180
+n1C1A6jmHKRjqO0yNRidgA	2847 BroadwayMorningside HeightsNew York, NY 10025
+n5FCAlZSWkOX-H8infzS6Q	2941 BroadwayMorningside HeightsManhattan, NY 10025
+n5s4xjB2jwwDHKE2Rj6tXw	664 New Loudon RdLatham, NY 12110
+n81sibF2k0PevDHa5-geFQ	207 5th StIthaca, NY 14850
+n9GCtjLzN9D2rL79KCljOA	204 Dryden RdIthaca, NY 14850
+n9KSfii0GCOJOhDJLAXJ7Q	294 N Greenbush RdTroy, NY 12180
+nAHhu6ZdaSN_qEmW2U1k_A	1187 Amsterdam AveMorningside HeightsNew York, NY 10027
+nDMnZFjvDqon5qKGMaHfVA	969 Amsterdam AveManhattan ValleyNew York, NY 10025
+nGgdoc8XIYYb055OIu4SgQ	2800 BroadwayManhattan ValleyNew York, NY 10025
+nIpIyaguICzAM286c9iwcQ	120 S Cayuga StIthaca, NY 14850
+nKiCl9cu5UZ9yBETm_BTiA	997 New Loudon Rd.Latham, NY 12110
+nL6fL-kFpNSCrLdYM7qNZg	3066 BroadwayMorningside HeightsManhattan, NY 10027
+nLhru9U0BbWMRu9jYnLrBA	499 2nd AveTroy, NY 12182
+nTbKkff5lY_jXOiUVywj6g	224 E State StIthaca, NY 14850
+nWRCSpp0eOZmjP0k6eUNpw	Myron Taylor HallIthaca, NY 14853
+nWWNokoF1DTeaDjlEv5_Ww	227 Cherry StIthaca, NY 14850
+nZC0ooChichlR8sUdy4DMQ	726 New Loudon RdLatham, NY 12110
+n_KosOPSHS81Yq0D6X3peQ	3151 BroadwayHarlemManhattan, NY 10027
+ncM7knCAFXLB52y-fon21w	710 W State StIthaca, NY 14850
+ncSgY1qZEM7LkkytY6Cehg	2785 BroadwayManhattan ValleyNew York, NY 10025
+nf79CvkAt4xPz4h74gCcXA	1552 Hanshaw RdIthaca, NY 14850
+nfHJNQyVw4M6VTx5bqvnxw	2937 BroadwayMorningside HeightsNew York, NY 10025
+nfPR_3WZ5um5iTN0gu8JiQ	139 Dryden RdIthaca, NY 14850
+nrceacHfm6Ada7aAiTXtkg	353 W 125th StHarlemNew York, NY 10027
+ntH3yiPIjLyMxYDCfY-UUQ	224 E State StIthaca, NY 14850
+nvd_6PF7AggAgQeme2E3Pg	374 Elmira RdIthaca, NY 14850
+o-2RUthWxPQoYefQbQf86w	72 Brown RdIthaca, NY 14850
+o0WYo6-P0PRdShWYGDazZQ	425 River StTroy, NY 12181
+o1D9AbSxDd8Vd_moNAdYwg	1181 Amsterdam AveMorningside HeightsNew York, NY 10027
+o2WZWI8lpiSKXxG7kPioHQ	560 Troy Schenectady RdLatham, NY 12110
+o4G9cfQQgktHYvYafIpLwg	579 1st StTroy, NY 12180
+o7Dq7X8vQs7KiJhSBbKMVQ	2309 N Triphammer RdSte 15Ithaca, NY 14850
+o8W7ro_9AICq83vaHEMOGg	120 N Aurora St Ste 1AIthaca, NY 14850
+oBkgwRPRVa3Mnh9oP7CloQ	3102 7th AveTroy, NY 12180
+oBnKOFvJqVFNhiF0YFjdCw	452 Bloomingrove DrTroy, NY 12180
+oCPvHNQAv0kSBw8eFVIJRg	2243 15th StTroy, NY 12180
+oEMAEVQZwBmnMxNdwNFsgg	110 N Aurora StIthaca, NY 14850
+oEP8EQRxILT8svJmALwh6w	525 Taughannock BlvdIthaca, NY 14850
+oEoogybFcPkkzAPgQVALVA	12 Industrial Park RdTroy, NY 12180
+oJNvyW31m-Gn0FzSJ8dMKw	3009 BroadwayMorningside HeightsNew York, NY 10027
+oMPDhpfvZth88KB3eYTztQ	574 Saratoga StCohoes, NY 12047
+oP2OLhCPRwNtiimBCey2ZQ	414 N Tioga StIthaca, NY 14850
+oRF8tpn0SoXb6QP7qf0iPg	2878 BroadwayMorningside HeightsNew York, NY 10025
+oYMXnGiX9pFVe52isEVdgg	Triphammer Mall2255 N Triphammer RdIthaca, NY 14850
+oYg8-g5mD1HPJSfj5U69BQ	638 Columbia Ext.Latham, NY 12110
+oYmlGHT02rCHJubUl0jvTg	1401 BroadwayWatervliet, NY 12189
+o_PfZdnoykPzb4TvZZiX0g	800 New Loudon RdSte 35Latham, NY 12110
+oidBvZouxEal1NWe5ARrVw	410 Eddy StIthaca, NY 14850
+onwnYRZAydT6_MjdG3uIkA	400 College AveIthaca, NY 14850
+ooSc1BXZhZgc5iw7EKt6cg	113 Dryden RdIthaca, NY 14850
+ossi9K7n2HNR_AyLB8rpOQ	649 River StTroy, NY 12180
+osuamA7_d3iHOuniXiGu3g	1030 Amsterdam AveMorningside HeightsNew York, NY 10025
+otS569Z2BeXgGmvhDZVAbw	29 Thornwood DrIthaca, NY 14850
+oukyW9ohk2ZFMHb8DEtcIA	572 Second AveLansingburgh, NY 12182
+ozEhcaxRvH9NtwbBoUatPQ	344 Elmira RdIthaca, NY 14850
+p1aLn5VVbknksy4DS3LRwA	195 Troy Schenectady RdLatham, NY 12110
+p1izzP-7YomYrP2spmOrBQ	1213 Amsterdam AveMorningside HeightsNew York, NY 10027
+p2zm0HnXZkI2yCAuYLb45g	960 Amsterdam AveManhattan ValleyNew York, NY 10025
+p63_WcPmATNi0jZU8ZnWqw	610 W 112th StMorningside HeightsNew York, NY 10025
+pDEvJfSbXV6RaxDTwNTmWQ	390 Manhattan AveHarlemManhattan, NY 10026
+pFCckrUbamXrAD-O1_v95w	516 River StTroy, NY 12180
+pIrSHmLYW6Bdjiz-HHWd1Q	3143 BroadwayHarlemNew York, NY 10027
+pK23qJqg-ZY-x3r7160jWg	40 Morningside AveMorningside HeightsManhattan, NY 10026
+pLYeVHtR7891Tr5SYnoltg	408 College AveIthaca, NY 14850
+pNNB4QSFaVD0-Gm3EMtH6w	594 New Loudon RdSte 4Latham, NY 12110
+pP8vL3HD_-hW08DlJ6peuw	710 New Loudon RdLatham, NY 12110
+pWyIj5w6akp02nzpq4pzEw	740 Hoosick RdTroy, NY 12180
+pYUNKd2ljVPIhDirhOdrZw	110 8th StSte 2Troy, NY 12180
+pYmaycIejVwNUgzXBjEeBA	215 E State StIthaca, NY 14850
+pZIjbdQQ-OxqmRgNoXQy6A	2781 BroadwayManhattan ValleyNew York, NY 10025
+pZxNXSYq5SSzy6TR7KT3AA	509 N MeadowIthaca, NY 14850
+pa9BKXoKaEaMrMdZ1nh5Bw	158 E State StIthaca, NY 14850
+pnZAlQoGDDyzSyjL8i80Uw	513 N Cayuga St Ste AIthaca, NY 14850
+pow4nSYu60xDY-jtC_rOgQ	709 Dryden RdIthaca, NY 14850
+pqKqkaM46QVqpuIKArXqcQ	29 Saratoga AvenueWaterford, NY 12188
+pqS4WSiAexNzg-KIE-3nxA	Community Corners903 Hanshaw RdIthaca, NY 14850
+ptAp0HWJar6Bk18HX--UuQ	208B Dryden RoadIthaca, NY 14850
+pzXYxXZP6Tx-fwQDY4TVuw	545 3rd StIthaca, NY 14850
+pzb-5Zpgx52PglQljZYi2g	450 BroadwayTroy, NY 12180
+pznaaB3gyEeky-NUDeEpDA	222 Elmira RdIthaca, NY 14850
+q1Fw6q62TgaUPIfnqPTWzg	185 Claremont AveHarlemNew York, NY 10025
+qBKcTxYgQzIdIlEYqv3qJg	1343 Amsterdam AveHarlemNew York, NY 10027
+qCmJ3StqvWuHEYhkwYZg_g	156 4th StTroy, NY 12180
+qGD9SK0nW5BspA50pfJneQ	840 Hanshaw RdIthaca, NY 14850
+qI-JE39ifWGj0gMSuf5szA	412 Fulton StTroy, NY 12180
+qI2_gqEih2Zz2r9uCpqv5A	Columbia University3030 BroadwayMorningside HeightsNew York, NY 10027
+qIWIti6Putx8E2MZvrmNGQ	742 S Meadow StIthaca, NY 14850
+qT9P64pYtAEjipB4SXGolA	2850 BroadwayMorningside HeightsNew York, NY 10025
+qTp9RJpqn8WMuMliov5AuQ	578 New Loudon RdLatham, NY 12110
+qXwHeoXwW_0_scHU8-I_dg	451 Fulton StTroy, NY 12180
+qfVLelk7q0j6XTHbHj9TCg	470 N Greenbush RdRensselaer, NY 12144
+qhHY55JZqSCkDrH-OemLoA	1 Sheraton DrIthaca, NY 14850
+qi_3Lmok4SCm-sjocVfy0w	1090 Amsterdam AveMorningside HeightsNew York, NY 10025
+qlwOzf3QBUl3eI6lMzj_gg	From 106th Street and Broadway in ManhattanTo La Guardia Airport in QueensManhattan ValleyAstoria, NY 11102
+qm1wK-WHnuJvifufgb2AnQ	815 Taber StIthaca, NY 14850
+qm49474drbXCrbglTSzNFw	318 E State StIthaca, NY 14850
+qnN9cTU6tjr9c_W5fzbc1A	413 River StTroy, NY 12180
+r0udpvGmvrIrRhVyluz3lw	831 Hoosick RdTroy, NY 12180
+r7l6GHODyZqGu-ZA7-anUQ	316 Troy-Schenectady RdWatervliet, NY 12189
+r98x6nWRBMIMQENUjCdJqw	430 W 116th StMorningside HeightsNew York, NY 10027
+rFNQJo_dV4UC5VCvLMyUbw	2 Hickory Hollow LnIthaca, NY 14850
+rFscSQwEcsYmQexb1Jqjcw	115th Street and BroadwayNorthwest CornerMorningside HeightsManhattan, NY 10027
+rGEeBgbztKbFDh4kum8x1w	1034 Amsterdam AveMorningside HeightsNew York, NY 10025
+rIe12fdyMfvJtagDly5QGg	46 3rd StTroy, NY 12180
+rLGVYIM4DHSMW1yi4-zhwQ	1241 Amsterdam AveMorningside HeightsNew York, NY 10027
+rMLWGTwcastkh7UAljlbdg	337 Elmira RdIthaca, NY 14850
+rOkGJvja1fPesbQM6i1UkA	Latham Farms579 Troy-Schenectady RdLatham, NY 12110
+rRfAzKeP9qNYINEUvmwAbQ	319 College Ave#AIthaca, NY 14850
+rVBicVN6W_p9LyWcLyscgw	311 3rd StIthaca, NY 14850
+rYGKOsxilNpA4CV8HBb08g	44 4th StTroy, NY 12180
+rYuZhUuU47np6KvaF0mJ7Q	601 Watervliet Shaker RdLatham, NY 12110
+rh1bJwxoh4-nFQAvZdP3Yw	2301 15th StTroy, NY 12180
+rjfVhsGYYYWWh2JIzIollA	430 W State StIthaca, NY 14850
+rlkLe_9rwX6njpD3NsiaEQ	976 Amsterdam AveManhattan ValleyNew York, NY 10025
+rlofqPibdzQhAcVdMPu52Q	745 New Loudon RdLatham, NY 12110
+rosGdyYpXWtuxclvOjmSxw	213 1/2 Dryden RdIthaca, NY 14850
+rs7lizrH9EgvrPzANvV3fg	2104 Frederick Douglass BlvdHarlemNew York, NY 10026
+ryhxaXvnYvDJiNYQqLKFTQ	2116 Frederick Douglass BlvdHarlemManhattan, NY 10026
+s4IKGtwCOFf65FXER7p2Hg	1527 15th StTroy, NY 12180
+s5KdgqPa9CMf9U-hfmErPQ	108-110 W 107th StManhattan ValleyNew York, NY 10025
+s5PTJizGA5LXcpQRInEEaA	546 Hoosick StTroy, NY 12180
+sB0RVG8EUi7IC6MwNVIHqw	311 E Green StIthaca, NY 14850
+sBlXj41G7RPtFYCfnOlD0g	302 Lake StIthaca, NY 14850
+sCPH5jyB8vYjA9tyaUEsGg	50 2nd StTroy, NY 12180
+sEpPnDb0O3Quphynwy_G3g	2255 N Triphammer Rd Ste 30Ithaca, NY 14850
+sIKHUwRdUF7iFHM4hbVKFg	Triphammer Mall2255 N Triphammer RdIthaca, NY 14850
+sLNjdofUb8EocOzO1A7N8Q	Ithaca Farmer's MarketSteamboat LandingIthaca, NY 14850
+sR69be9vQIWj1sZ55DNAjQ	2933 BroadwayMorningside HeightsNew York, NY 10025
+sVYXwrENUfM_rucuCD0UgQ	100 N Mohawk StCohoes, NY 12047
+senJyxjMuCVThGcwYSIU4w	77-81 Congress StTroy, NY 12180
+sgPVZV7gp-n7Dn7qJgqz5g	226 Mount Pleasant RdFreeville, NY 13068
+sjzgp3-uWvzas0wAKiZ-Lg	409 College AveIthaca, NY 14850
+sqPb2P93GGE1IHEdASLXvw	1028 Amsterdam AveMorningside HeightsNew York, NY 10025
+sqkSG2pAisfCfgtfkig2xw	435 W 125th StHarlemNew York, NY 10027
+stiGZw9iJpGfqzEceZmnTA	144 E State StIthaca, NY 14850
+sumTl7AejHC550OXXOYm0A	961 Amsterdam AveManhattan ValleyNew York, NY 10025
+swl3A19s0l5nsftCJn8yPA	654 Watervliet Shaker RdLatham, NY 12110
+sy1wEy61oMh6mGW1CSNIWQ	44 3rd StTroy, NY 12180
+t1XPSn5O1edDJwhJFYeEIQ	472 2nd AveTroy, NY 12182
+t1wzEPmSY_3I_JVYJnzhxA	1255 Amsterdam AvenueMorningside HeightsNew York, NY 10027
+t38KiHAZCGCLo9QsLllpnQ	425 Franklin StIthaca, NY 14850
+t3Y_KMMrkxkFdmakC16nBg	143 Dryden RdIthaca, NY 14850
+t8IeRycDkwLZGsKXi6tc_Q	210 Dryden RdSte BIthaca, NY 14850
+t9hp4ik0bt0jqsfnNYPxOw	510 W State StIthaca, NY 14850
+tEu9ccVyFT4mjnuh7Szp8A	76 N Greenbush RdTroy, NY 12180
+tGJTMrSWb6wufN3m_yGOvA	122 4th StTroy, NY 12180
+tSzmpsGDmHKAuop6BvELcA	200 BroadwayTroy, NY 12180
+tUl7-7sFCX4Y_JJ9m3qbNA	632 3rd AveWatervliet, NY 12189
+tWQDyCxO3qXwwAWf-wwWBA	215 Elmira RdIthaca, NY 14850
+tXWi3SSpYxO8IpC4XS6tTQ	999 Columbus AveManhattan ValleyManhattan, NY 10025
+tXbma_O3bO8LUfigOh1CdA	899 New Loudon RdAlbany, NY 12205
+tZLtxMw6jqvOJtO_TSO6AQ	531 5th AveTroy, NY 12182
+tbg4gR3jUUllR28cySo2kg	947 Amsterdam AveManhattan ValleyNew York, NY 10025
+trbr9pYDDmXCj9z8m2d6LQ	2751 BroadwayManhattan ValleyNew York, NY 10025
+tsk2EE1wAC6yk2NSxJrgFA	728 New Loudon RdLatham, NY 12110
+tx-RvyrgducHwWkz_b6Dqg	1302 Amsterdam AveHarlemManhattan, NY 10027
+tz6SEGSS6nH6F8VcuSPC8w	215 W 106th StSte 4EManhattan ValleyNew York, NY 10025
+tz_BWXOSswOpActxGCPBkw	271 W 119th StHarlemNew York, NY 10026
+uC9M9YlhgqqT5E-bRgCzKA	174 St. Nicholas AveHarlemManhattan, NY 10026
+uCJcdY3aq6atQoAmfHVkgA	335 Elmira RdIthaca, NY 14850
+uCsyRxfIfiRqQQuK_JlfZA	301 W 116th StHarlemNew York, NY 10026
+uIhwJtKaUDXUm0_3RY6uRg	120 Third AveIthaca, NY 14850
+uLWP9FVdklJXP37BsT6YIA	2857 BroadwayMorningside HeightsNew York, NY 10025
+uOxHLnePU2wyTqPJ_p7ryw	108 N Aurora StIthaca, NY 14850
+uPvM9by48kKU_070aZTioQ	Ithaca, NY 14850
+uRsPgIOf6OfTpB9ekMgKcg	Troy PlzTroy, NY 12180
+uSwJdHivZz32O4w3WAuRJg	2121 Frederick Douglass BlvdHarlemNew York, NY 10026
+uehLIM4VXnrqL1iqinjukg	2098 Frederick Douglass BlvdHarlemManhattan, NY 10026
+uep4cDx7Kq3vJTOs2fmLaQ	222 Troy-Schenectady RdLatham, NY 12110
+ufYKds6AjKs_NwOb1mDhwA	622 Cascadilla StIthaca, NY 14850
+ugekAf0_3hreoD5VJQjkCg	1272 Amsterdam AveMorningside HeightsNew York, NY 10027
+uh1SSWqq0-IV_BY78Lpz_Q	E Hill PlzIthaca, NY 14850
+ulfy5LAm3jUU7BktYbtHwg	628 3rd AveWatervliet, NY 12189
+um2BpHBOE95F23gLzgXXoQ	475 Riverside Dr13th FlMorningside HeightsNew York, NY 10115
+unrUGWQjIAEyMWZBqlIbnA	2255 N Triphammer RdIthaca, NY 14850
+urOeEHDr51cqdNd4Pca2cA	95 Ferry StTroy, NY 12180
+usNNgZYg18ucpqhOK9XeJQ	Cohoes, NY 12047
+uv7n9Af48hRVlpLNojvi7g	415 College AveIthaca, NY 14850
+v0zUq9nB7ayw3YXHL4rY4Q	251 River StTroy, NY 12180
+v13Ur9Yf2EhvGlvPAaFNeQ	2869 BroadwayMorningside HeightsNew York, NY 10025
+v4ACmVJr7ZXGP9uEbHfosw	301 College AveIthaca, NY 14850
+vFDr9nIf35BJq7rEMhbhSw	2198 Fredrick Douglass BlvdHarlemManhattan, NY 10026
+vHzWvZYbkoHY_071J-lPRw	2867 BroadwayMorningside HeightsNew York, NY 10025
+vI34pZUeUQWoX1aNTY7Rww	215 E State StSte 10Ithaca, NY 14850
+vJRiGiYepp8J7KvppHrNwA	1 Conners BlvdAlbany, NY 12204
+vJrY6VbRbu_wKGGwZk78bA	1 Selke DrHudson Shores ParkWatervliet, NY 12189
+vMB7YTcNXNiDEhUSF1SyeQ	602 W Buffalo StIthaca, NY 14853
+vQTMu1jkFZUIkb_EmYPa9w	1028 Amsterdam AveMorningside HeightsNew York, NY 10025
+vQaei8xkH8u2W5gHToRcXw	1270 Amsterdam AveMorningside HeightsNew York, NY 10027
+vTJFMyKMiQAjl_5_gpkviQ	257 W 113 StHarlemManhattan, NY 10026
+vUurk-uGboqLN52jtbM0cA	215 N. Cayuga StIn the DeWitt MallIthaca, NY 14850
+vWXMwnNy1TUAc4-IuFoE1g	748 S Meadow StIthaca, NY 14850
+vZ5-JXlJS75k8wmPNS5U5w	1274 Amsterdam AveMorningside HeightsNew York, NY 10027
+vbZM50JsRYfZA7vlRNTV6A	2753 BroadwayManhattan ValleyNew York, NY 10025
+vd8o92IOwX4dPJSSpV5POA	257 West 113 StHarlemNew York, NY 10025
+veXpjFt4J5TFnG3eKLweDw	2868 BroadwayMorningside HeightsNew York, NY 10025
+vgT0WIPsuEoM8TF2LVnXkA	2872 BroadwayMorningside HeightsNew York, NY 10025
+vnEYU8J2LqkcNOKh-LALFQ	240 W 35th StSte 500Manhattan ValleyNew York, NY 10001
+vqKwftWQXkygl9c0DLJ66g	185 Old Loudon RdLatham, NY 12110
+vr2H4H0liK7wpgeAxPnG8A	508 W State StIthaca, NY 14850
+vrqDdDabgrBnwWvh_E5RSQ	2960 BroadwayMC 5727Morningside HeightsNew York, NY 10027
+vry0EIIXrlQnIZj3c3JdaQ	275-277 W 113th StHarlemNew York, NY 10026
+w0RMLP9sCpTJ_PlYnu_i8g	15 Catherwood DrIthaca, NY 14850
+w1ohofTDIGlkKJgfgvVLsQ	77 4th StTroy, NY 12180
+wARkiyfNhDAv-uRm04qCNw	1246 Amsterdam AveMorningside HeightsNew York, NY 10027
+wKfyiP-eNWLSXF6CjWbI_A	354 W 125th StHarlemManhattan, NY 10027
+wM7-EQnNMZoWG3lRYudWbw	404 W State StIthaca, NY 14850
+wMKJxxh_agN85A54BdX79Q	1297 BroadwayWatervliet, NY 12189
+wX6YRN6O5ndm8WBkPdTuAQ	401 Eddy StIthaca, NY 14850
+wYJk9voIIV3TjZecQasrBw	79 Vandenburgh AveTroy, NY 12180
+wZWGiWXCc3gzFKtpY9E5Mg	235 Hoosick StTroy, NY 12180
+wZkZmjZEJDraLJgAalnHvA	125 La Salle StHarlemNew York, NY 10027
+wbL853xRHykMaMr_CbdAaw	616 N Pearl StAlbany, NY 12204
+wbpbaWBfU54JbjLIDwERQA	1085 New Loudon RdCohoes, NY 12047
+wrHFS7hWzjofPCTisoyxQQ	221 Wade Road ExtensionLatham, NY 12110
+wtoXdMTcfgpg3sf8KVf5Xw	92 Saratoga StCohoes, NY 12047
+wuukh5OIcA7wNbwZu2jO7w	981 Columbus AveManhattan ValleyManhattan, NY 10025
+wvl4-g3MGtDICRzA0UHPLA	3143 BroadwayHarlemNew York City, NY 10027
+wwJu9VLrM9r6R6KNBzoNLQ	579 Troy Schenectady RdLatham, NY 12110
+wxrlMnjni_UanASIp4dq2g	1262 Amsterdam AveMorningside HeightsNew York, NY 10027
+x--X9kEBF6Mg15-gDJ7MFQ	335 E State StIthaca, NY 14850
+x5IFNKlTXgDNTQTlQrRC6Q	2900 BroadwayMorningside HeightsNew York, NY 10025
+x6ZI-_J7X9WK17l77x53-w	945 Amsterdam AveManhattan ValleyNew York, NY 10025
+x9I2dXszYNvO6gBZq5Bikw	2864 BroadwayMorningside HeightsNew York, NY 10025
+xBF3jvTc5knr9RvtV4mOWA	301 West 110th StreetHarlemNew York, NY 10026
+xDcDKPVDO5wSZ-dU8HDbQg	2170 Frederick Douglass BlvdHarlemNew York, NY 10026
+xGos8tSzLwO3J8mEk3z_2A	973 Columbus AveManhattan ValleyNew York, NY 10025
+xGrSJeQhxW5zPQAorcJDuQ	501 S Meadow StIthaca, NY 14850
+xNJABNiMkI1JZfUkW-WzjQ	404 W State StIthaca, NY 14850
+xPVIFaI9caQ53huTATaLUw	114 Street and BroadwayMorningside HeightsNew York, NY 10027
+xRNtLkW18YmnXMrlUdV8HA	312 E Seneca StIthaca, NY 14850
+xSLGXyJ-nf-aa_3rfX0Wpw	594 New Loudon RdLatham, NY 12110
+xT9_g6g1V9wRFP3I5wmF7w	1259 Trumansburg RdIthaca, NY 14850
+xTiJ9uGs0l7cQ2F8IqnzPw	261 W 112th StSte 4EHarlemNew York, NY 10026
+xXUT3AEaclBliFLlT884NA	2220 Frederick Douglass BlvdHarlemNew York, NY 10026
+xZgynVVIQhaUhKlIaLzsYA	982 Amsterdam AveManhattan ValleyNew York, NY 10025
+x_AUsCP73LBeTXnec1tqkg	401 College AveIthaca, NY 14850
+xhF-WUufY0RF9d1epr-naA	122 4th StTroy, NY 12181
+xiDjRDCAi_WUaU8kdfLjyg	15 Catherwood RdSte 8Ithaca, NY 14850
+xjyosf0dH5EE8eRlDGAmTA	2103 Frederick Douglass Blvd.HarlemManhattan, NY 10026
+xlCVbr56NU9rFFWPRcRUyA	447 3rd AveWatervliet, NY 12189
+xlf5S8JkORIp7jTQ3W8VgA	120 Van Rensselaer BlvdAlbany, NY 12204
+xn0H2Sua4HZ0bC3bmHdWPA	1011 W Seneca StIthaca, NY 14850
+xpOmNQpzBcqGGe3tkjhzYQ	2812 BroadwayManhattan ValleyManhattan, NY 10025
+xu4qngtdHkc6RnebsvQIYg	1804 2nd AveWatervliet, NY 12189
+xy7eTlGnNJ2A99ot8vho1g	2922 BroadwayMorningside HeightsNew York, NY 10025
+xzhEw0zOOx4Zz760Mg6rKw	700 W Buffalo StIthaca, NY 14850
+y0J2PrJh2LIDHHtT6DzkJw	108 14th StTroy, NY 12180
+y0fCUbXtZjrYhOD2azr6Pg	54 Broad StWaterford, NY 12188
+y4VJdUVRidgysxdNtIylTA	720 Hoosick RdTroy, NY 12180
+y6eFfykC7l4DYGEViXwQ5Q	601 1st StIthaca, NY 14850
+yA-D2JsM279hh07O47Xf7g	500 Riverside DrHarlemManhattan, NY 10027
+yCcJBqillow6KhK_E6eoJw	609 Clinton PlzIthaca, NY 14850
+yEq4WDMn6dLyGTbLkw2HZA	53 Main AveWynantskill, NY 12198
+yKPRuBvD3ScCc18QrZ4Y6w	3151 BroadwayHarlemNew York, NY 10027
+yLikzm4RkMOtpzDo8SnZ3w	594 New Loudon RdSte 5Latham, NY 12110
+yOZy7PXpUG156HUZJ_4hcQ	588 New Loudon Rd Ste 6Latham, NY 12110
+yQj9ToL0iz5hsYn2DbEH2w	11 2nd StTroy, NY 12180
+yQk97Xh9kBZOrE3vWFB79g	2857 BroadwayMorningside HeightsNew York, NY 10025
+yRApveyZf_brPcVPlXg6eQ	101 E Green StIthaca, NY 14850
+ySzkBv-_DTNT30eONPnAkg	2084 Frederick Douglass BlvdHarlemNew York, NY 10026
+yY6Cxrh6yXQBavP12tjYhg	113 S Cayuga StIthaca, NY 14850
+yb1D_YgPLu8RYF5T-_rg5A	728 New Loudon RdLatham, NY 12110
+ybewokFnvF5TSnBsVXyUTA	740 South Meadow StSte 100Ithaca, NY 14850
+yc5uVaQGgSe1oPuCEfyTPg	106 S Cayuga StIthaca, NY 14850
+yhEbFukQPFn2Op5E0cZ-og	291 River StTroy, NY 12180
+yiR4dDit58T8pYg1GMvO3Q	2873 BroadwayMorningside HeightsNew York, NY 10025
+ykvUXxXXyXELz714vOGMzw	998 Amsterdam AveManhattan ValleyNew York, NY 10025
+ylVyaq6lEkOvI1bpP6uP1Q	723 New Loudon RdLatham, NY 12110
+ymeliOh5jPjpmlaWL9R0-w	230 W 108th StManhattan ValleyNew York, NY 10025
+yo_WAOnE2pPHCQduq_V_ZA	544 W 113th StMorningside HeightsNew York, NY 10025
+yue8UWXtQ38ddVn0fqAn0A	185 St Nicholas AveHarlemManhattan, NY 10026
+yw2yc4OlDDf-5g9DcUtpuw	525 W 120th StMorningside HeightsNew York, NY 10027
+yyfRfQ2YVOCUlIy_KGi4wA	112 S Cayuga StIthaca, NY 14850
+z2-4-SSHYQI5cOShuZ4emg	990 Amsterdam AveManhattan ValleyNew York, NY 10025
+z6Ut4WINzV8aK83c3lZPtw	579 Troy Schenectady RoadLatham, NY 12110
+z70kk4VWQruJ_R4UYy-86g	208 Dryden RdIthaca, NY 14850
+zBsAe3jj1MgtRKdA1zIjtw	1219 Amsterdam AveMorningside HeightsNew York, NY 10027
+zCKJ04uIdbI7c2JdXp-cHA	444 BroadwayAlbany, NY 12204
+zY4f6pQpy9CQJHcR8q4Ulg	961 Columbus AveManhattan ValleyNew York, NY 10025
+zaXaHSbZU6--c4F2z4uazw	Riverfront ParkTroy, NY 12180
+zdJco2dR5jnpkj0b14WHxA	664 New Loudon RdLatham, NY 12110
+zgGK2GYpEPkPlo_fMdga5w	304 W 117th StHarlemNew York, NY 10026
+ziS_fZ7Z99fa4qNVr879vg	141 The CommonsSte 3Ithaca, NY 14850
+zkVSfgzLz03B2_627lrfkA	159 Dryden RdIthaca, NY 14850
+ztqtQ6XMGvWUF9dTYCMovA	993 Amsterdam AveManhattan ValleyNew York, NY 10025
+ztswDToyZGyL_dxo0CEQew	200 W SenecaIthaca, NY 14850
+zx1lLUvlRUN5nQlSj3HRDw	282 River StTroy, NY 12180
+zz687K2lR21YNwsv455Dqw	405 River StTroy, NY 12180
+zzh3XNV25Fngor_E72aGWg	1187 Amsterdam AveMorningside HeightsNew York, NY 10027
+

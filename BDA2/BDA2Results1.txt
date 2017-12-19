@@ -1,0 +1,291 @@
+Question 1:
+
+100 Addison AvePalo Alto, CA 94309	1
+100 Hamilton AvePalo Alto, CA 94301	1
+100 Hamilton AveSte 400Palo Alto, CA 94301	1
+101 Forest AvePalo Alto, CA 94301	1
+101 Stanford Shopping CtrPalo Alto, CA 94304	1
+102 Town & Country VillagePalo Alto, CA 94301	1
+1101 Welch RdPalo Alto, CA 94304	1
+1101 Welch RdSte A-7Palo Alto, CA 94304	1
+1101 Welch RdSte A-8Palo Alto, CA 94304	1
+1101 Welch RdSte A1Palo Alto, CA 94304	1
+1101 Welch RdSte C12Palo Alto, CA 94304	1
+1101 Welch RdSte C5Palo Alto, CA 94304	1
+1101 Welch RdSuite CPalo Alto, CA 94304	1
+1101 Welch Road Suite A4Palo Alto, CA 94304	1
+1101 Welch RoadPalo Alto, CA 94304	1
+111 Homer AvePalo Alto, CA 94301	1
+111 Stanford Shopping CtrPalo Alto, CA 94304	1
+113 Stanford Shopping CtrPalo Alto, CA 94304	1
+115 Hamilton AvePalo Alto, CA 94309	1
+115 Stanford Shopping CenterStanford Shopping CenterPalo Alto, CA 94304	1
+119 Stanford Shoping CenterPalo Alto, CA 94304	1
+12 Stanford Shopping CenterUnit 12Palo Alto, CA 94304	1
+124 Stanford Shoppng CtrPalo Alto, CA 94304	1
+126 Stanford Shoppng CtrPalo Alto, CA 94304	1
+130 Stanford Shopping CtrSte APalo Alto, CA 94304	1
+136 Stanford Shopping CtrPalo Alto, CA 94304	1
+140 Homer AvePalo Alto, CA 94301	1
+1515 El Camino Real Ste. FPalo Alto, CA 94306	1
+1515 El Camino RealPalo Alto, CA 94306	1
+1515 El Camino RealSte CPalo Alto, CA 94306	1
+1515 El Camino RealSte DPalo Alto, CA 94306	1
+1515 El Camino RealSte FPalo Alto, CA 94306	1
+1520 Sand Hill Rd Apt 202Palo Alto, CA 94304	1
+16 Stanford Shoppng CtrPalo Alto, CA 94304	1
+1600 Sand Hill RdPalo Alto, CA 94304	1
+1681 El Camino RealPalo Alto, CA 94306	1
+180 El Camino Real, Suite 210Palo Alto, CA 94304	1
+180 El Camino RealPalo Alto, CA 94304	1
+180 El Camino RealSpace 210Palo Alto, CA 94304	1
+180 El Camino RealSte 14Palo Alto, CA 94304	1
+180 Stanford Shopping CenterPalo Alto, CA 94301	1
+199 Stanford Shoppng CtrPalo Alto, CA 94304	1
+20 Stanford Shopping CenterPalo Alto, CA 94304	1
+228 Stanford Shopping CenterPalo Alto, CA 94304	1
+230 Stanford Shopping CenterStanford Shopping CenterPalo Alto, CA 94304	1
+232 Stanford Shopping CtrPalo Alto, CA 94304	1
+232 Stanford Shoppng CtrPalo Alto, CA 94304	1
+240 Stanford Shopping CtrPalo Alto, CA 94304	1
+244 Stanford Shoppng CtrPalo Alto, CA 94304	1
+2450 El Camino RealSte 101Palo Alto, CA 94309	1
+25 Churchill AvePalo Alto, CA 94306	1
+27 University AvePalo Alto, CA 94301	1
+3 Stanford Shopping CenterPalo Alto, CA 94304	1
+300 Pasteur DrPalo Alto, CA 94304	1
+300 Pasteur DrPalo Alto, CA 94305	1
+317 Stanford Shopping CenterPalo Alto, CA 94304	1
+328 Lomita DrPalo Alto, CA 94305	1
+329 Stanford Shoppng CtrPalo Alto, CA 94304	1
+345 Stanford Shoping CtrPalo Alto, CA 94304	1
+353 Stanford Shoppng CtrPalo Alto, CA 94304	1
+355 Quarry RdPalo Alto, CA 94304	1
+355 Stanford Shoppng CtrPalo Alto, CA 94304	1
+361 Stanford Shopping CenterPalo Alto, CA 94304	1
+365 Stanford Shoppng CtrPalo Alto, CA 94304	1
+367 Stanford Shoppng CtrPalo Alto, CA 94304	1
+369 Stanford Shopping CenterPalo Alto, CA 94304	1
+379A Stanford Shopping CtrPalo Alto, CA 94304	1
+383 Stanford Shoppng CtrPalo Alto, CA 94304	1
+391 Stanford Shopping CenterPalo Alto, CA 94304	1
+391 Stanford Shoppng CtrPalo Alto, CA 94304	1
+393 Stanford Shopping CtrPalo Alto, CA 94304	1
+395 Quarry RoadPalo Alto, CA 94309	1
+395 Stanford Shoppng CtrPalo Alto, CA 94304	1
+398 Arboretum RdPalo Alto, CA 94304	1
+399 Stanford Shoppng CtrPalo Alto, CA 94304	1
+4 Stanford Shopping CtrPalo Alto, CA 94304	1
+4 Stanford Shoppng CtrPalo Alto, CA 94304	1
+400 Mitchell LanePalo Alto, CA 94301	1
+400 Stanford Shopping CtrPalo Alto, CA 94304	1
+400 Stanford Shoppng CtrPalo Alto, CA 94304	1
+411-473 Stanford Shopping CenterSte 700Palo Alto, CA 94304	1
+42 Town & Country VillagePalo Alto, CA 94301	1
+425 El Camino RealPalo Alto, CA 94301	1
+425 Stanford Shopping MallPalo Alto, CA 94309	1
+450 Serra MallBldg 500Palo Alto, CA 94305	1
+450 Stanford Shopping CtrPalo Alto, CA 94309	1
+459 Lagunita DrPalo Alto, CA 94305	1
+50 Embarcadeo RoadPalo Alto, CA 94301	1
+50 Embarcadero RdPalo Alto, CA 94301	1
+50 Embarcadero RdPalo Alto, CA 94306	1
+500 Stanford Shoppng CtrPalo Alto, CA 94304	1
+520 Sand Hill RdPalo Alto, CA 94304	1
+525 Alma StPalo Alto, CA 94301	1
+529 Alma StPalo Alto, CA 94301	1
+535 Alma StPalo Alto, CA 94301	1
+539 Alma StPalo Alto, CA 94301	1
+550 Stanford Shopping CenterPalo Alto, CA 94304	1
+550 Stanford Shopping CtPalo Alto, CA 94304	1
+550 Stanford Shopping CtrPalo Alto, CA 94304	1
+6 Stanford Shopping CtrPalo Alto, CA 94304	1
+600 Quarry RdPalo Alto, CA 94304	1
+605 Stanford Shopping CtrPalo Alto, CA 94304	1
+607 Stanford Shopping CtrPalo Alto, CA 94304	1
+609 Stanford Shopping CenterPalo Alto, CA 94301	1
+609 Stanford Shopping CtPalo Alto, CA 94304	1
+620 Sand Hill RdPalo Alto, CA 94304	1
+625 El Camino RealPalo Alto, CA 94301	1
+65 Town & Country VillagePalo Alto, CA 94301	1
+650 Clark WayPalo Alto, CA 94304	1
+660 Stanford Shopping CenterPalo Alto, CA 94304	1
+660 Stanford Shopping CenterSte E715Palo Alto, CA 94304	1
+660 Stanford Shopping CourtPalo Alto, CA 94304	1
+660 Stanford Shopping CtPalo Alto, CA 94304	1
+660 Stanford Shopping CtrPalo Alto, CA 94304	1
+660 Stanford Shopping CtrSte 10Palo Alto, CA 94309	1
+660 Stanford Shopping CtrSte 18Palo Alto, CA 94304	1
+660 Stanford Shoppng CenterPalo Alto, CA 94304	1
+660 Stanford Shoppng CtrPalo Alto, CA 94304	1
+675 El Camino RealPalo Alto, CA 94301	1
+675 Stanford Shopping CtrPalo Alto, CA 94304	1
+680 Stanford Shopping CenterStanford Shopping CenterPalo Alto, CA 94304	1
+680 Stanford Shopping CourtPalo Alto, CA 94304	1
+680 Stanford Shopping CtrPalo Alto, CA 94304	1
+6801 Miranda AvePalo Alto Veterans HospitalPalo Alto, CA 94309	1
+700 Clark WayPalo Alto, CA 94304	1
+700 Stanford Shoppng CtrPalo Alto, CA 94304	1
+700 Welch RdPalo Alto, CA 94304	1
+700 Welch RdSte 107Palo Alto, CA 94304	1
+700 Welch RdSte 115Palo Alto, CA 94304	1
+700 Welch RdSte 118Palo Alto, CA 94304	1
+700 Welch RoadPalo Alto, CA 94304	1
+700 Welch RoadSuite 102Palo Alto, CA 94304	1
+703 Stanford Shopping CtPalo Alto, CA 94304	1
+703 Stanford Shopping CtrPalo Alto, CA 94304	1
+705 Stanford CtrPalo Alto, CA 94304	1
+707 High StPalo Alto, CA 94301	1
+711 El Camino RealPalo Alto, CA 94301	1
+711 Stanford Shopping CtrPalo Alto, CA 94304	1
+711 Stanford Shoppng CtrPalo Alto, CA 94304	1
+715 Stanford Shoppng CtrPalo Alto, CA 94304	1
+717 Stanford Shopping CourtPalo Alto, CA 94304	1
+721 Stanford Shoppng CtrPalo Alto, CA 94304	1
+725 Welch RdPalo Alto, CA 94304	1
+725 Welch RdPalo Alto, CA 94309	1
+730 Welch RdPalo Alto, CA 94304	1
+730 Welch RdSte 400Palo Alto, CA 94304	1
+74 Stanford Shopping CourtPalo Alto, CA 94304	1
+744 San AntonioSte 10Palo Alto, CA 94309	1
+75 Town & Country VillagePalo Alto, CA 94309	1
+750 Welch RdPalo Alto, CA 94304	1
+750 Welch RdSte 102Palo Alto, CA 94304	1
+750 Welch RdSte 118Palo Alto, CA 94304	1
+750 Welch RoadPalo Alto, CA 94304	1
+77 Town & CountryPalo Alto, CA 94301	1
+770 Welch RdSte 250Palo Alto, CA 94304	1
+777 Welch RdPalo Alto, CA 94304	1
+777 Welch RdSte HPalo Alto, CA 94304	1
+777 Welch RdSte KPalo Alto, CA 94304	1
+777 Welch RdSte MPalo Alto, CA 94304	1
+78 Stanford Shopping CtrPalo Alto, CA 94304	1
+780 Welch RdPalo Alto, CA 94303	1
+780 Welch RdSte 104Palo Alto, CA 94304	1
+780 Welch RdSte 204Palo Alto, CA 94304	1
+780 Welch RoadPalo Alto, CA 94304	1
+79 Stanford MallPalo Alto, CA 94304	1
+795 El Camino RealEast Palo Alto, CA 94303	1
+795 El Camino RealPalo Alto Medical FoundationPalo Alto, CA 94301	1
+795 El Camino RealPalo Alto, CA 94031	1
+795 El Camino RealPalo Alto, CA 94301	1
+799 Alma StPalo Alto, CA 94301	1
+800 Stanford Shoppng CtrPalo Alto, CA 94304	1
+801 Alma StPalo Alto, CA 94301	1
+805 El Camino RealSte APalo Alto, CA 94301	1
+805 El Camino RealSte BPalo Alto, CA 94301	1
+825 El Camino RealPalo Alto, CA 94301	1
+83 Stanford Shoppng CtrPalo Alto, CA 94304	1
+830 Stanford Shopping CenterPalo Alto, CA 94304	1
+830 Stanford Shoppng CtrPalo Alto, CA 94304	1
+840 Stanford Shopping CenterPalo Alto, CA 94301	1
+841 El Camino RealPalo Alto, CA 94301	1
+85 Town & Country VillagePalo Alto, CA 94301	1
+850 Stanford Shopping CenterPalo Alto, CA 94304	1
+853 Alma StreetPalo Alto, CA 94301	1
+853 Middlefield RdSte 6Palo Alto, CA 94309	1
+855 El Camino Real Ste 108textures salonPalo Alto, CA 94301	1
+855 El Camino Real#57Palo Alto, CA 94301	1
+855 El Camino RealPalo Alto, CA 94301	1
+855 El Camino RealSte 108Palo Alto, CA 94301	1
+855 El Camino RealSte 120Palo Alto, CA 94301	1
+855 El Camino RealSte 13APalo Alto, CA 94301	1
+855 El Camino RealSte 13BPalo Alto, CA 94301	1
+855 El Camino RealSte 151Palo Alto, CA 94301	1
+855 El Camino RealSte 157Palo Alto, CA 94301	1
+855 El Camino RealSte 16Palo Alto, CA 94301	1
+855 El Camino RealSte 18Palo Alto, CA 94301	1
+855 El Camino RealSte 1Palo Alto, CA 94301	1
+855 El Camino RealSte 20BPalo Alto, CA 94301	1
+855 El Camino RealSte 21Palo Alto, CA 94301	1
+855 El Camino RealSte 220Palo Alto, CA 94301	1
+855 El Camino RealSte 34Palo Alto, CA 94301	1
+855 El Camino RealSte 35Palo Alto, CA 94301	1
+855 El Camino RealSte 36Palo Alto, CA 94301	1
+855 El Camino RealSte 37Palo Alto, CA 94301	1
+855 El Camino RealSte 401Palo Alto, CA 94301	1
+855 El Camino RealSte 40Palo Alto, CA 94301	1
+855 El Camino RealSte 49Palo Alto, CA 94301	1
+855 El Camino RealSte 69Palo Alto, CA 94301	1
+855 El Camino RealSte 73Palo Alto, CA 94301	1
+855 El Camino RealSte 74Palo Alto, CA 94301	1
+855 El Camino RealSte 84Palo Alto, CA 94301	1
+855 El Camino RealSte 85Palo Alto, CA 94301	1
+855 El Camino RealSte 99BPalo Alto, CA 94301	1
+855 El Camino RealTown & Country Village, Ste 102Palo Alto, CA 94301	1
+855 El Camino RealTown & Country VillagePalo Alto, CA 94303	1
+855 El Camino RealTown & Country VillageSte 45Palo Alto, CA 94301	1
+855 El Camino RealUnit 43Palo Alto, CA 94301	1
+866 W Peachtree St NWInside the Palomar HotelMidtownAtlanta, GA 30308	1
+87 Stanford Shopping CtrPalo Alto, CA 94304	1
+875 Alma StPalo Alto, CA 94301	1
+875 Blake Wilbur DrPalo Alto, CA 94304	1
+88 Stanford Shopping CtrPalo Alto, CA 94304	1
+9 Stanford Shopping CtrPalo Alto, CA 94301	1
+900 Blake Wilbur DrivePalo Alto, CA 94304	1
+900 High StPalo Alto, CA 94301	1
+900 Stanford Shopping CtrBldg. WPalo Alto, CA 94304	1
+900 Welch RdPalo Alto, CA 94304	1
+900 Welch RdSte 100Palo Alto, CA 94304	1
+900 Welch RdSte 103Palo Alto, CA 94304	1
+900 Welch RdSte 106Palo Alto, CA 94304	1
+900 Welch RdSte 211Palo Alto, CA 94304	1
+900 Welch RdSte 350Palo Alto, CA 94304	1
+900 Welch RdSte 401Palo Alto, CA 94304	1
+900 Welch RdSte 403Palo Alto, CA 94304	1
+900 Welch Road #105Palo Alto, CA 94304	1
+900 Welch RoadPalo Alto, CA 94304	1
+904 High StPalo Alto, CA 94301	1
+91 Town & Country VillaPalo Alto, CA 94301	1
+95 Town and Country VillagePalo Alto, CA 94301	1
+95 University AvePalo Alto, CA 94309	1
+950 Stanford Shopping CourtPalo Alto, CA 94304	1
+950 Stanford Shopping CtrPalo Alto, CA 94304	1
+960 High StPalo Alto, CA 94301	1
+99 Stanford Shopping CtrPalo Alto, CA 94304	1
+999 Alma StPalo Alto, CA 94301	1
+California Cafe Palo Alto700 Welch RdPalo Alto, CA 94304	1
+Galvez and El Camino RealStanford UniversityPalo Alto, CA 94309	1
+LaBelle Day Spas & Salons95 Town & Country VillagePalo Alto, CA 94301	1
+Palo Alto High School50 Embarcadero RdPalo Alto, CA 94306	1
+Palo Alto Historic Train Station95 University AvePalo Alto, CA 94301	1
+Palo Alto Medical Foundation795 El Camino RealPalo Alto, CA 94301	1
+Palo Alto, CA 94309	1
+Palo Alto606 Stanford Shopping CenterPalo Alto, CA 94304	1
+Stanford Ave & Junipero Serra BlvdPalo Alto, CA 94305	1
+Stanford Barn700 Welch RdPalo Alto, CA 94304	1
+Stanford Family Medicine Group211 Quarry Rd.Palo Alto, CA 94304	1
+Stanford Hospital300 Pasteur Dr, 3rd flPalo Alto, CA 94304	1
+Stanford Mall180 El Camino RealPalo Alto, CA 94304	1
+Stanford School of Medicine900 Blake Wilbur DrPalo Alto, CA 94309	1
+Stanford Shopping Center153 stanford shopping centerPalo Alto, CA 94304	1
+Stanford Shopping Center180 El Camino Real, Ste 181Palo Alto, CA 94304	1
+Stanford Shopping Center180 El Camino RealPalo Alto, CA 94304	1
+Stanford Shopping Center359 Stanford Shopping CenterPalo Alto, CA 94304	1
+Stanford Shopping Center400 Stanford Shopping CtPalo Alto, CA 94304	1
+Stanford Shopping Center608 Stanford Shopping CenterPalo Alto, CA 94304	1
+Stanford Shopping CenterPalo Alto, CA 94304	1
+Stanford Shopping CenterPalo Alto, CA 94309	1
+Stanford Shopping CenterSte 313APalo Alto, CA 94304	1
+Stanford Shopping CtrPalo Alto, CA 94309	1
+Stanford University - Eucalyptus GroveGalvez StPalo Alto, CA 94309	1
+Stanford University, Blake Wilbur Clinic900 Blake Wilbur DrPalo Alto, CA 94304	1
+Stanford University801 Welch Rd, Fl 2Palo Alto, CA 94304	1
+Stanford University900 Blake Wilbur Dr, Ste 1083Palo Alto, CA 94304	1
+Ten Town & Country Village855 El Camino RealPalo Alto, CA 94301	1
+Town & Country Shopping CenterPalo Alto, CA 94301	1
+Town & Country Village855 El Camino Real #18Palo Alto, CA 94301	1
+Town & Country Village855 El Camino Real#63Palo Alto, CA 94301	1
+Town & Country Village855 El Camino Real, #108Palo Alto, CA 94301	1
+Town & Country Village855 El Camino Real, Ste 123Palo Alto, CA 94301	1
+Town & Country Village855 El Camino Real, Ste 50Palo Alto, CA 94301	1
+Town & Country Village855 El Camino Real, Ste 60Palo Alto, CA 94301	1
+Town & Country Village855 El Camino RealPalo Alto, CA 94301	1
+Town & Country Village855 El Camino RealSte 16Palo Alto, CA 94301	1
+Town & Country Village855 El Camino RealSte 9Palo Alto, CA 94301	1
+Town And Country Village855 El Camino Real, Ste 109Palo Alto, CA 94301	1
+Town And Country Village855 El Camino Real, Ste 125Palo Alto, CA 94301	1
+Town And Country Village855 El Camino Real, Ste 64Palo Alto, CA 94301	1
+Town and Country Village855 El Camino Real#33Palo Alto, CA 94301	1
+Town and Country Village855 El Camino Real#98Palo Alto, CA 94301	1
+Vistnes Plastic Surgery1515 El Camino Real, Ste BPalo Alto, CA 94306	1
